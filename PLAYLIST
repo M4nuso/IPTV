@@ -1,57 +1,35 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="Chile", UCV | SD | Valparaíso
-https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="Chile", La Red | FHD | Santiago
-https://unlimited10-cl.dps.live/lared/lared.smil/lared/livestream0/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png" group-title="Chile", TV+ | FHD | Valparaíso
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png" group-title="Chile", TV CHILE | HD | Santiago 
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SVy05TP.png" group-title="Chile", TVN Chile | HD | Santiago 
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/438614708
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="Chile", Canal 9 | SD | Concepción
-https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/176_MEGA_HD.png" group-title="Chile", Mega | HD | Santiago 
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/320935331
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUryzXB.png" group-title="Chile", U Chile TV | HD | Santiago
-https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png" group-title="Chile", Contivisión | HD | Constitución
-http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OYPGJRE.png" group-title="Chile", Canal 13 Entretención | HD | Santiago
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/393454788
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3lfGaqZ.png" group-title="Chile", 13 Prime | HD | Santiago
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/452651861
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R7eUeSq.png" group-title="Chile", 13 Teleseries | HD | Santiago
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/452651862
-
-#EXTINF:-1,CDF
-http://186.67.37.45:9000/play/a002/index.m3u8
-#EXTINF:-1,CDF Basico
-http://186.67.37.45:9000/play/a00e/index.m3u8
-#EXTINF:-1,Canal 13
-http://186.67.37.45:9000/play/a00c/index.m3u8
-#EXTINF:-1,Canal 2
-http://186.67.37.45:9000/play/a00a/index.m3u8
-#EXTINF:-1,Canal Regional
-http://186.67.37.45:9000/play/a004/index.m3u8
-#EXTINF:-1,FMH FAMILY
-http://186.67.37.45:9000/play/a00b/index.m3u8
-#EXTINF:-1,Karavana Tv
-http://186.67.37.45:9000/play/a008/index.m3u8
-#EXTINF:-1,TVN HD
-http://186.67.37.45:9000/play/a00d/index.m3u8
-#EXTINF:-1,Urbano
-http://186.67.37.45:9000/play/a009/index.m3u8
+#EXTINF:-1,CL : COMEDY CENTRAL
+http://mains.services:2086/live/stanleyg/6916329/67194.m3u8
+#EXTINF:-1,CL : DISNEY JR
+http://mains.services:2086/live/stanleyg/6916329/67154.m3u8
+#EXTINF:-1,CL : FOROTV
+http://mains.services:2086/live/stanleyg/6916329/67202.m3u8
+#EXTINF:-1,CL : FOX SPORTS 2
+http://mains.services:2086/live/stanleyg/6916329/67169.m3u8
+#EXTINF:-1,CL : HBO
+http://mains.services:2086/live/stanleyg/6916329/67176.m3u8
+#EXTINF:-1,CL : HBO 2
+http://mains.services:2086/live/stanleyg/6916329/67177.m3u8
+#EXTINF:-1,CL : HBO FAMILY
+http://mains.services:2086/live/stanleyg/6916329/67178.m3u8
+#EXTINF:-1,CL : HBO PLUS
+http://mains.services:2086/live/stanleyg/6916329/67179.m3u8
+#EXTINF:-1,CL : HBO SIGNATURE
+http://mains.services:2086/live/stanleyg/6916329/67180.m3u8
+#EXTINF:-1,CL : HOLA TV
+http://mains.services:2086/live/stanleyg/6916329/67193.m3u8
+#EXTINF:-1,CL : MEGA
+http://mains.services:2086/live/stanleyg/6916329/67186.m3u8
+#EXTINF:-1,CL : NAT GEO
+http://mains.services:2086/live/stanleyg/6916329/67187.m3u8
+#EXTINF:-1,CL : STUDIO UNIVERSAL
+http://mains.services:2086/live/stanleyg/6916329/67208.m3u8
+#EXTINF:-1,CL : TNT
+http://mains.services:2086/live/stanleyg/6916329/67203.m3u8
+#EXTINF:-1,CL : TV CHILE
+http://mains.services:2086/live/stanleyg/6916329/67199.m3u8
+#EXTINF:-1,CL : TYC SPORTS
+http://mains.services:2086/live/stanleyg/6916329/67173.m3u8
+#EXTINF:-1,CL : WARNER CHANNEL
+http://mains.services:2086/live/stanleyg/6916329/67210.m3u8
