@@ -355,3 +355,141 @@ http://tv.nousiptv.com:8080/anavrin4ever@yahoo.com.ar/794613/7982
 http://tv.nousiptv.com:8080/anavrin4ever@yahoo.com.ar/794613/7980
 #EXTINF:-1,PPV - CINEMA 31 FHD (ES).
 http://tv.nousiptv.com:8080/anavrin4ever@yahoo.com.ar/794613/7979
+#EXTINF:-1 tvg-id="canal13.cr" tvg-name="CL: 13 CHILE" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: 13 CHILE
+http://tvpanel.one:80/live/Dave/Dave/196671.ts
+#EXTINF:-1 tvg-id="24horas.cl" tvg-name="CL: 24 HORAS" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: 24 HORAS
+http://tvpanel.one:80/live/Dave/Dave/196673.ts
+#EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL: CANAL 13i" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CANAL 13i
+http://tvpanel.one:80/live/Dave/Dave/196684.ts
+#EXTINF:-1 tvg-id="cdfbásico.cl" tvg-name="CL: CDF BASICO" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CDF BASICO
+http://tvpanel.one:80/live/Dave/Dave/196687.ts
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="CL: CDF ESTADIO TNT SPORTS" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CDF ESTADIO TNT SPORTS
+http://tvpanel.one:80/live/Dave/Dave/196691.ts
+#EXTINF:-1 tvg-id="cdf.cl" tvg-name="CL: CDF FHD" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CDF FHD
+http://tvpanel.one:80/live/Dave/Dave/196693.ts
+#EXTINF:-1 tvg-id="cdfpremium.cl" tvg-name="CL: CDF PREMIUM" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CDF PREMIUM
+http://tvpanel.one:80/live/Dave/Dave/196702.ts
+#EXTINF:-1 tvg-id="cdo.cl" tvg-name="CL: CDO" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CDO
+http://tvpanel.one:80/live/Dave/Dave/196707.ts
+#EXTINF:-1 tvg-id="cdobásico.cl" tvg-name="CL: CDO BASICO" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CDO BASICO
+http://tvpanel.one:80/live/Dave/Dave/196708.ts
+#EXTINF:-1 tvg-id="cdopremium.cl" tvg-name="CL: CDO PREMIUM" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CDO PREMIUM
+http://tvpanel.one:80/live/Dave/Dave/196709.ts
+#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL: CHILEVISION " tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CHILEVISION 
+http://tvpanel.one:80/live/Dave/Dave/196711.ts
+#EXTINF:-1 tvg-id="cnn.cl" tvg-name="CL: CNN CHILE" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CNN CHILE
+http://tvpanel.one:80/live/Dave/Dave/196720.ts
+#EXTINF:-1 tvg-id="espn2.cl" tvg-name="CL: ESPN 2 HD" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: ESPN 2 HD
+http://tvpanel.one:80/live/Dave/Dave/196724.ts
+#EXTINF:-1 tvg-id="espn.cl" tvg-name="CL: ESPN CHILE " tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: ESPN CHILE 
+http://tvpanel.one:80/live/Dave/Dave/196727.ts
+#EXTINF:-1 tvg-id="etctv.cl" tvg-name="CL: ETC TV " tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: ETC TV 
+http://tvpanel.one:80/live/Dave/Dave/196731.ts
+#EXTINF:-1 tvg-id="foxsports3.co" tvg-name="CL: FOX SPORTS 3" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: FOX SPORTS 3
+http://tvpanel.one:80/live/Dave/Dave/196736.ts
+#EXTINF:-1 tvg-id="foxsports2.cl" tvg-name="CL: FOX SPORTS 2" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: FOX SPORTS 2
+http://tvpanel.one:80/live/Dave/Dave/196737.ts
+#EXTINF:-1 tvg-id="lared.cl" tvg-name="CL: LA RED " tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: LA RED 
+http://tvpanel.one:80/live/Dave/Dave/196741.ts
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL: MEGA + " tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: MEGA + 
+http://tvpanel.one:80/live/Dave/Dave/196746.ts
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL: MEGA" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: MEGA
+http://tvpanel.one:80/live/Dave/Dave/196747.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: PPV CHILE 2" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: PPV CHILE 2
+http://tvpanel.one:80/live/Dave/Dave/196754.ts
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="CL: REC TV" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: REC TV
+http://tvpanel.one:80/live/Dave/Dave/196755.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: T13 NOTICIAS" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: T13 NOTICIAS
+http://tvpanel.one:80/live/Dave/Dave/196757.ts
+#EXTINF:-1 tvg-id="teletrak.cl" tvg-name="CL: TELETRAK" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: TELETRAK
+http://tvpanel.one:80/live/Dave/Dave/196759.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: TV CHILE" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: TV CHILE
+http://tvpanel.one:80/live/Dave/Dave/196761.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: TV+" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: TV+
+http://tvpanel.one:80/live/Dave/Dave/196764.ts
+#EXTINF:-1 tvg-id="tvn.cl" tvg-name="CL: TVN" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: TVN
+http://tvpanel.one:80/live/Dave/Dave/196765.ts
+#EXTINF:-1 tvg-id="tvu.cl" tvg-name="CL: TVU CONCEPCION" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: TVU CONCEPCION
+http://tvpanel.one:80/live/Dave/Dave/196768.ts
+#EXTINF:-1 tvg-id="foxsports1.cl" tvg-name="CL: FOX SPORTS 1" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: FOX SPORTS 1
+http://tvpanel.one:80/live/Dave/Dave/196772.ts
+#EXTINF:-1 tvg-id="foxsportspremium.ar" tvg-name="CL: FOX SPORTS 1 PREMIUM" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: FOX SPORTS 1 PREMIUM
+http://tvpanel.one:80/live/Dave/Dave/196773.ts
+#EXTINF:-1 tvg-id="13c.cl" tvg-name="CL: 13C" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: 13C
+http://tvpanel.one:80/live/Dave/Dave/390264.ts
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="CL: SPORTING" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: SPORTING
+http://tvpanel.one:80/live/Dave/Dave/390266.ts
+#EXTINF:-1 tvg-id="247canaldenoticias.ar" tvg-name="CL: TVN 24 HORAS" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: TVN 24 HORAS
+http://tvpanel.one:80/live/Dave/Dave/434394.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: EMOL TV" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: EMOL TV
+http://tvpanel.one:80/live/Dave/Dave/434395.ts
+#EXTINF:-1 tvg-id="espn3.cl" tvg-name="CL: ESPN 3" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: ESPN 3
+http://tvpanel.one:80/live/Dave/Dave/518566.ts
+#EXTINF:-1 tvg-id="tntsports1.cl" tvg-name="CL: TNT SPORTS" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: TNT SPORTS
+http://tvpanel.one:80/live/Dave/Dave/518569.ts
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-name="CL: TNT SPORTS 2" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: TNT SPORTS 2
+http://tvpanel.one:80/live/Dave/Dave/518571.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="CL: TNT SPORTS 3" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: TNT SPORTS 3
+http://tvpanel.one:80/live/Dave/Dave/518575.ts
+#EXTINF:-1 tvg-id="rectv.cl" tvg-name="CL: DIRECTV SPORTS" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: DIRECTV SPORTS
+http://tvpanel.one:80/live/Dave/Dave/518576.ts
+#EXTINF:-1 tvg-id="rectv.cl" tvg-name="CL: DIRECTV CHILE" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: DIRECTV CHILE
+http://tvpanel.one:80/live/Dave/Dave/518577.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: PPV CHILE 1" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: PPV CHILE 1
+http://tvpanel.one:80/live/Dave/Dave/518578.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: MIGUELITO 24H" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: MIGUELITO 24H
+http://tvpanel.one:80/live/Dave/Dave/518579.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: RIOS DEL MUNDO 24H" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: RIOS DEL MUNDO 24H
+http://tvpanel.one:80/live/Dave/Dave/518580.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: LA JUEZA 24H" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: LA JUEZA 24H
+http://tvpanel.one:80/live/Dave/Dave/518581.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CINE CHILE 1" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CINE CHILE 1
+http://tvpanel.one:80/live/Dave/Dave/518582.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CINE CHILE 2" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CINE CHILE 2
+http://tvpanel.one:80/live/Dave/Dave/518583.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CINE CHILE 3" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CINE CHILE 3
+http://tvpanel.one:80/live/Dave/Dave/518584.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: PLAZA DIGNIDAD 2020 GALERIA CIMA" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: PLAZA DIGNIDAD 2020 GALERIA CIMA
+http://tvpanel.one:80/live/Dave/Dave/518585.ts
+#EXTINF:-1 tvg-id="megatv.pr" tvg-name="CL: MEGA AHORA NOTICIAS" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: MEGA AHORA NOTICIAS
+http://tvpanel.one:80/live/Dave/Dave/518586.ts
+#EXTINF:-1 tvg-id="caracolinternacional.cl" tvg-name="CL: CARACOL INTERNACIONAL" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CARACOL INTERNACIONAL
+http://tvpanel.one:80/live/Dave/Dave/518587.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: TV EDUCA CHILE" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: TV EDUCA CHILE
+http://tvpanel.one:80/live/Dave/Dave/518588.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: UCV 2" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: UCV 2
+http://tvpanel.one:80/live/Dave/Dave/518589.ts
+#EXTINF:-1 tvg-id="zonalatina.cl" tvg-name="CL: ZONA LATINA" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: ZONA LATINA
+http://tvpanel.one:80/live/Dave/Dave/518590.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CAROLINA TV" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CAROLINA TV
+http://tvpanel.one:80/live/Dave/Dave/518591.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: VC ONLINE" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: VC ONLINE
+http://tvpanel.one:80/live/Dave/Dave/518592.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CAMARA DE DIPUTADOS" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CAMARA DE DIPUTADOS
+http://tvpanel.one:80/live/Dave/Dave/518593.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: TV SALUD" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: TV SALUD
+http://tvpanel.one:80/live/Dave/Dave/518594.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CANAL COSTA TV" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CANAL COSTA TV
+http://tvpanel.one:80/live/Dave/Dave/518595.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: ANTOFAGASTA TV" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: ANTOFAGASTA TV
+http://tvpanel.one:80/live/Dave/Dave/518596.ts
+#EXTINF:-1 tvg-id="canal9bíobío.cl" tvg-name="CL: CANAL 9 BIO BIO" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CANAL 9 BIO BIO
+http://tvpanel.one:80/live/Dave/Dave/518597.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: PINGUINO TV" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: PINGUINO TV
+http://tvpanel.one:80/live/Dave/Dave/518598.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: TV 8 CONCEPCION" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: TV 8 CONCEPCION
+http://tvpanel.one:80/live/Dave/Dave/518599.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: PORTAL FOXMIX" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: PORTAL FOXMIX
+http://tvpanel.one:80/live/Dave/Dave/518780.ts
+#EXTINF:-1 tvg-id="canal13.ar" tvg-name="CL: CANAL 13" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CANAL 13
+http://tvpanel.one:80/live/Dave/Dave/567560.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CANAL 2 SAN ANTONIO" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CANAL 2 SAN ANTONIO
+http://tvpanel.one:80/live/Dave/Dave/567561.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CANAL 21 CHILLAN" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CANAL 21 CHILLAN
+http://tvpanel.one:80/live/Dave/Dave/567562.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CLUB TV" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CLUB TV
+http://tvpanel.one:80/live/Dave/Dave/567563.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CSTV" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: CSTV
+http://tvpanel.one:80/live/Dave/Dave/567564.ts
+#EXTINF:-1 tvg-id="megatv.pr" tvg-name="CL: MEGAVISION" tvg-logo="https://github.com/hampusborgos/country-flags/raw/main/png100px/cl.png" group-title="LAT | CHILE",CL: MEGAVISION
+http://tvpanel.one:80/live/Dave/Dave/567565.ts
