@@ -74,3 +74,1960 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1 tvg-logo="https://stage.speltjanst.se/assets/img/atg_logo.png" group-title="DEPORTES",ATG Tv https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
 #EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN HD" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | Deportes",D| TUDN HD http://sdmx.us:25461/Ivan3/QCxNLnabwF/155675 #EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports HD" tvg-logo="http://l3d.us:25461/images/7d41cab9ab9cd931ee6eefb75e22e9ad.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports HD http://sdmx.us:25461/Ivan3/QCxNLnabwF/11024 #EXTINF:-1 tvg-id="" tvg-name="2MB| Directv Sports" tvg-logo="http://l3d.us:25461/images/5e56db18ff5269bd636438936869d6cf.png" group-title="TV | 2 Megas",2MB| Directv Sports http://sdmx.us:25461/Ivan3/QCxNLnabwF/2123473 #EXTINF:-1 tvg-id="TyC Sp" tvg-name="D| TYC Sports HD" tvg-logo="http://l3d.us:25461/images/2aaf0c473413e80cde32fcf546039218.png" group-title="TV | Deportes",D| TYC Sports HD http://sdmx.us:25461/Ivan3/QCxNLnabwF/199511 #EXTINF:-1 tvg-id="tycsports.ar" tvg-name="D| TyC Sports Internacional" tvg-logo="http://l3d.us:25461/images/2aaf0c473413e80cde32fcf546039218.png" group-title="TV | Deportes",D| TyC Sports Internacional http://sdmx.us:25461/Ivan3/QCxNLnabwF/10920 #EXTINF:-1 tvg-id="tycsports.ar" tvg-name="D| TyC Sports Internacional HD" tvg-logo="http://l3d.us:25461/images/2aaf0c473413e80cde32fcf546039218.png" group-title="TV | Deportes",D| TyC Sports Internacional HD http://sdmx.us:25461/Ivan3/QCxNLnabwF/155679 #EXTINF:-1 tvg-id="espn2.ar" tvg-name="D| Espn 2 | ARG HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | ARG HD http://sdmx.us:25461/Ivan3/QCxNLnabwF/181332 #EXTINF:-1 tvg-id="espn2.co" tvg-name="D| Espn 2 | COL" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | COL http://sdmx.us:25461/Ivan3/QCxNLnabwF/181350 #EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | MX HD http://sdmx.us:25461/Ivan3/QCxNLnabwF/155473 #EXTINF:-1 tvg-id="espn.co" tvg-name="D| Espn | COL HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | COL HD http://sdmx.us:25461/Ivan3/QCxNLnabwF/181347 #EXTINF:-1 tvg-id="espn.mx" tvg-name="D| Espn | MX HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | MX HD http://sdmx.us:25461/Ivan3/QCxNLnabwF/155472 #EXTINF:-1 tvg-id="espn3.co" tvg-name="D| Espn 3 | COL HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | COL HD http://sdmx.us:25461/Ivan3/QCxNLnabwF/202088 #EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn EXTRA" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn EXTRA http://sdmx.us:25461/Ivan3/QCxNLnabwF/181370 #EXTINF:-1 tvg-id="tudn.mx" tvg-name="2MB | TUDN MX LQ" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | 2 Megas",2MB | TUDN MX LQ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092577 #EXTINF:-1 tvg-id="tudn.mx" tvg-name="2MB | TUDN USA" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | 2 Megas",2MB | TUDN USA http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092604
+#EXTM3U
+#EXTINF:-1,WARNER TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/1024
+#EXTINF:-1,NICK JR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/3429
+#EXTINF:-1,PARAMOUNT CHANNEL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/3268
+#EXTINF:-1,HISTORY 2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/9783
+#EXTINF:-1,COMEDY CENTRAL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/9767
+#EXTINF:-1,DISCOVERY THEATHER ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/13969
+#EXTINF:-1,E! ENTERTAIMENT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/15302
+#EXTINF:-1,TV PERU NOTICIAS
+https://nxt.plus:8443/alexandrawwr/223348/15642
+#EXTINF:-1,CINEMAX ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16903
+#EXTINF:-1,ANIMAL PLANET ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16904
+#EXTINF:-1,DISNEY CHANNEL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16908
+#EXTINF:-1,HISTORY CHANNEL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16917
+#EXTINF:-1,SONY CHANNEL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16921
+#EXTINF:-1,AXN ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/1021
+#EXTINF:-1,DISCOVERY KIDS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/757
+#EXTINF:-1,DISNEY JR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16909
+#EXTINF:-1,HBO | Dual Audio ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16897
+#EXTINF:-1,TELESUR
+https://nxt.plus:8443/alexandrawwr/223348/27594
+#EXTINF:-1,LIFETIME
+https://nxt.plus:8443/alexandrawwr/223348/43547
+#EXTINF:-1,FX ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/3270
+#EXTINF:-1,CANAL 13 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16777
+#EXTINF:-1,CNN INT
+https://nxt.plus:8443/alexandrawwr/223348/53695
+#EXTINF:-1,DISCOVERY H&H ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/57255
+#EXTINF:-1,A&E ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/58123
+#EXTINF:-1,CNN EN ESPAÑOL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59075
+#EXTINF:-1,LA RED | CL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/60563
+#EXTINF:-1,DISCOVERY WORLD ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/1639
+#EXTINF:-1,DISCOVERY ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/2826
+#EXTINF:-1,NAT GEO  ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/43549
+#EXTINF:-1,MTV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/43548
+#EXTINF:-1,TELEMUNDO INT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/24528
+#EXTINF:-1,TELEMUNDO INT
+https://nxt.plus:8443/alexandrawwr/223348/43573
+#EXTINF:-1,AVIVAMIENTO TV
+https://nxt.plus:8443/alexandrawwr/223348/77104
+#EXTINF:-1,MARIA VISION
+https://nxt.plus:8443/alexandrawwr/223348/77108
+#EXTINF:-1,HOSSANA VISION
+https://nxt.plus:8443/alexandrawwr/223348/115316
+#EXTINF:-1,UNIVERSAL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/3271
+#EXTINF:-1,STUDIO UNIVERSAL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/9780
+#EXTINF:-1,SPACE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16922
+#EXTINF:-1,TNT SERIES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16925
+#EXTINF:-1,TNT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/25213
+#EXTINF:-1,JN19 | PE
+https://nxt.plus:8443/alexandrawwr/223348/77069
+#EXTINF:-1,FARO DE SANTIDAD TV | PR
+https://nxt.plus:8443/alexandrawwr/223348/77078
+#EXTINF:-1,SV  | TV CRET
+https://nxt.plus:8443/alexandrawwr/223348/77095
+#EXTINF:-1,CAZA Y PESCA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/23121
+#EXTINF:-1,WIN SPORTS+
+https://nxt.plus:8443/alexandrawwr/223348/46973
+#EXTINF:-1,CARTOON NETWORK
+https://nxt.plus:8443/alexandrawwr/223348/43513
+#EXTINF:-1,AMC ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/24818
+#EXTINF:-1,DISCOVERY
+https://nxt.plus:8443/alexandrawwr/223348/59087
+#EXTINF:-1,NAT GEO
+https://nxt.plus:8443/alexandrawwr/223348/59141
+#EXTINF:-1,CR | FUTV ᴴᴰ 
+https://nxt.plus:8443/alexandrawwr/223348/69657
+#EXTINF:-1,GOL PERU
+https://nxt.plus:8443/alexandrawwr/223348/9758
+#EXTINF:-1,GOL TV | EC
+https://nxt.plus:8443/alexandrawwr/223348/53691
+#EXTINF:-1,FOX SPORTS 2 | SUR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/13229
+#EXTINF:-1,ESPN EXTRA | SUR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16915
+#EXTINF:-1,FOX SPORTS 3 | SUR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/24405
+#EXTINF:-1,ESPN 1 | CO
+https://nxt.plus:8443/alexandrawwr/223348/43528
+#EXTINF:-1,ESPN 1 | CL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/58201
+#EXTINF:-1,ESPN 2 | CL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/58202
+#EXTINF:-1,TRU TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/118117
+#EXTINF:-1,NICK ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/58204
+#EXTINF:-1,MTV YO !
+https://nxt.plus:8443/alexandrawwr/223348/14553
+#EXTINF:-1,TLC
+https://nxt.plus:8443/alexandrawwr/223348/43567
+#EXTINF:-1,SUN CHANNEL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/58205
+#EXTINF:-1,LAS ESTRELLAS INT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/60564
+#EXTINF:-1,TVN ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/2
+#EXTINF:-1,TV+ ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/773
+#EXTINF:-1,EL PINGÜINO TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/17696
+#EXTINF:-1,CANAL 2 SAN ANTONIO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/18153
+#EXTINF:-1,BUIN SOMOS TODOS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/27342
+#EXTINF:-1,REC TV
+https://nxt.plus:8443/alexandrawwr/223348/43558
+#EXTINF:-1,C9N
+https://nxt.plus:8443/alexandrawwr/223348/26026
+#EXTINF:-1,ABC PY ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/46801
+#EXTINF:-1,LA TELE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/52104
+#EXTINF:-1,NPY
+https://nxt.plus:8443/alexandrawwr/223348/59138
+#EXTINF:-1,PARAVISION ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59143
+#EXTINF:-1,MI TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/169841
+#EXTINF:-1,RD | ANTENA 7
+https://nxt.plus:8443/alexandrawwr/223348/174898
+#EXTINF:-1,Ned Kelly (2003)
+https://nxt.plus:8443/movie/alexandrawwr/223348/178586.mkv
+#EXTINF:-1,REG | IZABALTV
+https://nxt.plus:8443/alexandrawwr/223348/59320
+#EXTINF:-1,REG | NUEVO MUNDO
+https://nxt.plus:8443/alexandrawwr/223348/59309
+#EXTINF:-1,TNT SPORTS 3 (CL)
+https://nxt.plus:8443/alexandrawwr/223348/8
+#EXTINF:-1,TNT SPORTS 2 (CL)
+https://nxt.plus:8443/alexandrawwr/223348/7
+#EXTINF:-1,RD | ALEGRE TV
+https://nxt.plus:8443/alexandrawwr/223348/184375
+#EXTINF:-1,AMERICA TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/12262
+#EXTINF:-1,TLNOVELAS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/169464
+#EXTINF:-1,TEEN NICK ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/161681
+#EXTINF:-1,CDO BASICO
+https://nxt.plus:8443/alexandrawwr/223348/59071
+#EXTINF:-1,DISCOVERY H&H
+https://nxt.plus:8443/alexandrawwr/223348/169438
+#EXTINF:-1,INVESTIGATION DISCOVERY
+https://nxt.plus:8443/alexandrawwr/223348/169454
+#EXTINF:-1,DISCOVERY KIDS
+https://nxt.plus:8443/alexandrawwr/223348/43520
+#EXTINF:-1,DISCOVERY SCIENCE
+https://nxt.plus:8443/alexandrawwr/223348/43521
+#EXTINF:-1,ESPN 2 | EC
+https://nxt.plus:8443/alexandrawwr/223348/59099
+#EXTINF:-1,REG | CANAL 6 | Pana
+https://nxt.plus:8443/alexandrawwr/223348/59326
+#EXTINF:-1,RD | CDN37
+https://nxt.plus:8443/alexandrawwr/223348/190372
+#EXTINF:-1,REG | CANAL 25
+https://nxt.plus:8443/alexandrawwr/223348/192310
+#EXTINF:-1,13C
+https://nxt.plus:8443/alexandrawwr/223348/59067
+#EXTINF:-1,CARTOONITO
+https://nxt.plus:8443/alexandrawwr/223348/191171
+#EXTINF:-1,AMERICA TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/192588
+#EXTINF:-1,NICKELODEON
+https://nxt.plus:8443/alexandrawwr/223348/13121
+#EXTINF:-1,LA NACIÓN ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/182759
+#EXTINF:-1,CR | TRECE COSTA RICA TV
+https://nxt.plus:8443/alexandrawwr/223348/196620
+#EXTINF:-1,CR | TV SUR CANAL 14
+https://nxt.plus:8443/alexandrawwr/223348/196621
+#EXTINF:-1,CR | MULTIZONAS
+https://nxt.plus:8443/alexandrawwr/223348/196622
+#EXTINF:-1,FARO TV
+https://nxt.plus:8443/alexandrawwr/223348/94555
+#EXTINF:-1,CULTURA 24 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16494
+#EXTINF:-1,CANAL CLARO
+https://nxt.plus:8443/alexandrawwr/223348/201927
+#EXTINF:-1,TELEMUSICA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/171767
+#EXTINF:-1,UCV 2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/32019
+#EXTINF:-1,DE PELICULA
+https://nxt.plus:8443/alexandrawwr/223348/213165
+#EXTINF:-1,TELERITMO
+https://nxt.plus:8443/alexandrawwr/223348/213166
+#EXTINF:-1,SPORTS MAX
+https://nxt.plus:8443/alexandrawwr/223348/213167
+#EXTINF:-1,CANAL 13
+https://nxt.plus:8443/alexandrawwr/223348/169436
+#EXTINF:-1,HN | CANAL 8 TNH
+https://nxt.plus:8443/alexandrawwr/223348/217670
+#EXTINF:-1,HOLA!TV
+https://nxt.plus:8443/alexandrawwr/223348/217671
+#EXTINF:-1,TV CHILE
+https://nxt.plus:8443/alexandrawwr/223348/217672
+#EXTINF:-1,RD | CDN2 DEPORTES 
+https://nxt.plus:8443/alexandrawwr/223348/160234
+#EXTINF:-1,PA | TELEMETRO
+https://nxt.plus:8443/alexandrawwr/223348/65697
+#EXTINF:-1,NAC | TRECEVISION
+https://nxt.plus:8443/alexandrawwr/223348/49584
+#EXTINF:-1,SV | CANAL 19
+https://nxt.plus:8443/alexandrawwr/223348/167087
+#EXTINF:-1,SV | CANAL  2
+https://nxt.plus:8443/alexandrawwr/223348/35073
+#EXTINF:-1,NI | CANAL  2
+https://nxt.plus:8443/alexandrawwr/223348/65693
+#EXTINF:-1,NAC | CANAL  3
+https://nxt.plus:8443/alexandrawwr/223348/35046
+#EXTINF:-1,SV | CANAL  4
+https://nxt.plus:8443/alexandrawwr/223348/65708
+#EXTINF:-1,NAC | CANAL ANTIGUA
+https://nxt.plus:8443/alexandrawwr/223348/27846
+#EXTINF:-1,PA | MASTV
+https://nxt.plus:8443/alexandrawwr/223348/222060
+#EXTINF:-1,TV PERU
+https://nxt.plus:8443/alexandrawwr/223348/222306
+#EXTINF:-1,RD | TELEUNION
+https://nxt.plus:8443/alexandrawwr/223348/222307
+#EXTINF:-1,SBT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/51503
+#EXTINF:-1,LAS ESTRELLAS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59587
+#EXTINF:-1,UNICABLE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59597
+#EXTINF:-1,DSPORTS 1 | PE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/116424
+#EXTINF:-1,DKISS
+https://nxt.plus:8443/alexandrawwr/223348/56896
+#EXTINF:-1,IMAGEN TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/159491
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/160243
+#EXTINF:-1,#0 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/60285
+#EXTINF:-1,MULTIMEDIOS
+https://nxt.plus:8443/alexandrawwr/223348/160511
+#EXTINF:-1,MILENIO TV
+https://nxt.plus:8443/alexandrawwr/223348/160533
+#EXTINF:-1,DSPORTS 1 | AR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/160612
+#EXTINF:-1,PR | WIPR
+https://nxt.plus:8443/alexandrawwr/223348/49720
+#EXTINF:-1,PR | WAPA 2
+https://nxt.plus:8443/alexandrawwr/223348/60695
+#EXTINF:-1,PA | RPC
+https://nxt.plus:8443/alexandrawwr/223348/65696
+#EXTINF:-1,NI | CANAL  4
+https://nxt.plus:8443/alexandrawwr/223348/35074
+#EXTINF:-1,CANAL 26 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/114557
+#EXTINF:-1,EL NUEVE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/1632
+#EXTINF:-1,5TV
+https://nxt.plus:8443/alexandrawwr/223348/81192
+#EXTINF:-1,GARAGE TV
+https://nxt.plus:8443/alexandrawwr/223348/81322
+#EXTINF:-1,MOVISTAR DEPORTES 1 | ES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/23243
+#EXTINF:-1,DAZN 1 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/25276
+#EXTINF:-1,MOVISTAR DEPORTES 2 | ES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/27023
+#EXTINF:-1,DAZN LA LIGA 2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/56867
+#EXTINF:-1,MOVISTAR DEPORTES 3 | ES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/60391
+#EXTINF:-1,MOVISTAR DEPORTES 2 | ES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/60437
+#EXTINF:-1,DAZN F1
+https://nxt.plus:8443/alexandrawwr/223348/60439
+#EXTINF:-1,SV | CANAL 21
+https://nxt.plus:8443/alexandrawwr/223348/35050
+#EXTINF:-1,SV | CANAL 12
+https://nxt.plus:8443/alexandrawwr/223348/35052
+#EXTINF:-1,SV | CANAL  6
+https://nxt.plus:8443/alexandrawwr/223348/35056
+#EXTINF:-1,HN | TELECADENA
+https://nxt.plus:8443/alexandrawwr/223348/35063
+#EXTINF:-1,CR | CANAL 11
+https://nxt.plus:8443/alexandrawwr/223348/46922
+#EXTINF:-1,HN | TELESISTEMA
+https://nxt.plus:8443/alexandrawwr/223348/59595
+#EXTINF:-1,HN | VTV
+https://nxt.plus:8443/alexandrawwr/223348/61808
+#EXTINF:-1,NI | CANAL 10
+https://nxt.plus:8443/alexandrawwr/223348/65694
+#EXTINF:-1,RD | TELEANTILLAS
+https://nxt.plus:8443/alexandrawwr/223348/160232
+#EXTINF:-1,RD | TELESISTEMA
+https://nxt.plus:8443/alexandrawwr/223348/160233
+#EXTINF:-1,RD | DIGITAL 15
+https://nxt.plus:8443/alexandrawwr/223348/160235
+#EXTINF:-1,RD | TELECENTRO
+https://nxt.plus:8443/alexandrawwr/223348/160236
+#EXTINF:-1,RD | TELEMICRO
+https://nxt.plus:8443/alexandrawwr/223348/160239
+#EXTINF:-1,RCN NOVELAS
+https://nxt.plus:8443/alexandrawwr/223348/12265
+#EXTINF:-1,COSMOVISION
+https://nxt.plus:8443/alexandrawwr/223348/24978
+#EXTINF:-1,CITY TV
+https://nxt.plus:8443/alexandrawwr/223348/43516
+#EXTINF:-1,RCN
+https://nxt.plus:8443/alexandrawwr/223348/59079
+#EXTINF:-1,TU UNIVERSO
+https://nxt.plus:8443/alexandrawwr/223348/99016
+#EXTINF:-1,TELEPACIFICO
+https://nxt.plus:8443/alexandrawwr/223348/99017
+#EXTINF:-1,CALI TV
+https://nxt.plus:8443/alexandrawwr/223348/99018
+#EXTINF:-1,TELECARIBE
+https://nxt.plus:8443/alexandrawwr/223348/118090
+#EXTINF:-1,LA 1 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/13652
+#EXTINF:-1,LA 2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/13653
+#EXTINF:-1,ANTENA 3 INT
+https://nxt.plus:8443/alexandrawwr/223348/14476
+#EXTINF:-1,CUATRO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/17318
+#EXTINF:-1,TV GALICIA AMERICA
+https://nxt.plus:8443/alexandrawwr/223348/19776
+#EXTINF:-1,ANTENA 3 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/23090
+#EXTINF:-1,TOROS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/31141
+#EXTINF:-1,LA SEXTA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/52886
+#EXTINF:-1,FDF ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/53696
+#EXTINF:-1,MEGA | ES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/116386
+#EXTINF:-1,NAC | TELEVISIETE
+https://nxt.plus:8443/alexandrawwr/223348/27849
+#EXTINF:-1,NAC | TN23
+https://nxt.plus:8443/alexandrawwr/223348/27850
+#EXTINF:-1,NAC | AZTECA GUATE
+https://nxt.plus:8443/alexandrawwr/223348/27853
+#EXTINF:-1,NAC | TELEONCE
+https://nxt.plus:8443/alexandrawwr/223348/49583
+#EXTINF:-1,NAC | GUATEVISION
+https://nxt.plus:8443/alexandrawwr/223348/49861
+#EXTINF:-1,REG | TVS RETRO
+https://nxt.plus:8443/alexandrawwr/223348/59308
+#EXTINF:-1,REG | BARBETV | Sta Rosa
+https://nxt.plus:8443/alexandrawwr/223348/59311
+#EXTINF:-1,REG | CANAL 8 | Sta Rosa
+https://nxt.plus:8443/alexandrawwr/223348/59312
+#EXTINF:-1,REG | FULL CHANNEL | San Lucas Sac
+https://nxt.plus:8443/alexandrawwr/223348/59315
+#EXTINF:-1,REG | VISIÓN TV | Sololá
+https://nxt.plus:8443/alexandrawwr/223348/59319
+#EXTINF:-1,REG | TELECOSTA | Escuintla
+https://nxt.plus:8443/alexandrawwr/223348/59325
+#EXTINF:-1,NAC | CANAL 27
+https://nxt.plus:8443/alexandrawwr/223348/59624
+#EXTINF:-1,REG | SAS TV | San Antonio Such
+https://nxt.plus:8443/alexandrawwr/223348/160977
+#EXTINF:-1,AZ MUNDO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/27651
+#EXTINF:-1,WILLAX HD
+https://nxt.plus:8443/alexandrawwr/223348/14446
+#EXTINF:-1,ATV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16492
+#EXTINF:-1,BHTV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/18053
+#EXTINF:-1,EXITOSA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/18054
+#EXTINF:-1,ATV
+https://nxt.plus:8443/alexandrawwr/223348/43498
+#EXTINF:-1,AMERICA TV
+https://nxt.plus:8443/alexandrawwr/223348/43500
+#EXTINF:-1,PANAMERICANA TV
+https://nxt.plus:8443/alexandrawwr/223348/43552
+#EXTINF:-1,CANAL IPE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/58318
+#EXTINF:-1,CANAL N ᴴᴰ*
+https://nxt.plus:8443/alexandrawwr/223348/116427
+#EXTINF:-1,VENEVISION PLUS
+https://nxt.plus:8443/alexandrawwr/223348/3436
+#EXTINF:-1,IVC
+https://nxt.plus:8443/alexandrawwr/223348/14447
+#EXTINF:-1,PROMAR TV
+https://nxt.plus:8443/alexandrawwr/223348/18119
+#EXTINF:-1,EVTV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/24826
+#EXTINF:-1,VPI TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/24910
+#EXTINF:-1,ITALIANISSIMO
+https://nxt.plus:8443/alexandrawwr/223348/30510
+#EXTINF:-1,TELEARAGUA
+https://nxt.plus:8443/alexandrawwr/223348/30948
+#EXTINF:-1,TV FAMILIA
+https://nxt.plus:8443/alexandrawwr/223348/43485
+#EXTINF:-1,TV ANZOATEGUI
+https://nxt.plus:8443/alexandrawwr/223348/53380
+#EXTINF:-1,TRV ARAGUA
+https://nxt.plus:8443/alexandrawwr/223348/59306
+#EXTINF:-1,TLT
+https://nxt.plus:8443/alexandrawwr/223348/116421
+#EXTINF:-1,#VAMOS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/15318
+#EXTINF:-1,CLARO SPORTS 1 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59084
+#EXTINF:-1,CLARO SPORTS 2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/103887
+#EXTINF:-1,EUROSPORT 1 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59541
+#EXTINF:-1,EUROSPORT 2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59830
+#EXTINF:-1,FISH TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/56911
+#EXTINF:-1,GOL TV  ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/60562
+#EXTINF:-1,MOVISTAR DEPORTES | PE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/12261
+#EXTINF:-1,NBA TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/4983
+#EXTINF:-1,RED BULL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/91786
+#EXTINF:-1,SPORT TV 1 | PT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/23424
+#EXTINF:-1,SPORT TV 5 | PT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/23432
+#EXTINF:-1,SPORT TV+ | PT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/58191
+#EXTINF:-1,CR | TD+ 2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/69659
+#EXTINF:-1,CR | TD+ ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/160231
+#EXTINF:-1,TELEDEPORTE | ES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/15320
+#EXTINF:-1,TENNIS CHANNEL 2 | Eventos ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/26923
+#EXTINF:-1,WIRED2FISH ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/24761
+#EXTINF:-1,ESPN 1 | AR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16497
+#EXTINF:-1,ESPN 2 | AR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/81343
+#EXTINF:-1,ESPN 3 | AR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/81344
+#EXTINF:-1,ESPN PREMIUM | AR ᴴᴰ*
+https://nxt.plus:8443/alexandrawwr/223348/11476
+#EXTINF:-1,FOX SPORTS 3 | AR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/81342
+#EXTINF:-1,ESPN 2 | BR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/56902
+#EXTINF:-1,ESPN 3 | BR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/117637
+#EXTINF:-1,ESPN 1 | CENTRO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/25201
+#EXTINF:-1,ESPN 2 | CENTRO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/25210
+#EXTINF:-1,ESPN 3 | CENTRO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/25211
+#EXTINF:-1,ESPN 1 | CO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/766
+#EXTINF:-1,ESPN 2 | EC ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/58203
+#EXTINF:-1,ESPN 2 | MX ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/134386
+#EXTINF:-1,ESPN 3 | MX ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/29764
+#EXTINF:-1,ESPN 1 | PE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/58200
+#EXTINF:-1,FS 1 | US ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/65714
+#EXTINF:-1,A3 SERIES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/24961
+#EXTINF:-1,CINEMA DINAMITA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/53020
+#EXTINF:-1,DE PELÍCULA CLÁSICO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/65203
+#EXTINF:-1,DE PELÍCULA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/43492
+#EXTINF:-1,DE PELÍCULA+ ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/43494
+#EXTINF:-1,DHE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16929
+#EXTINF:-1,DIVINITY | ES
+https://nxt.plus:8443/alexandrawwr/223348/52884
+#EXTINF:-1,ENERGY | ES
+https://nxt.plus:8443/alexandrawwr/223348/52883
+#EXTINF:-1,GOLDEN PLUS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/9771
+#EXTINF:-1,GOLDEN PREMIER 2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59491
+#EXTINF:-1,HBO 2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/7090
+#EXTINF:-1,HBO FAMILY ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/3273
+#EXTINF:-1,HBO POP ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16902
+#EXTINF:-1,HBO SIGNATURE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16898
+#EXTINF:-1,HBO+ ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16900
+#EXTINF:-1,SONY CHANNEL** ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/27799
+#EXTINF:-1,STAR CHANNEL | Andino ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/118115
+#EXTINF:-1,TNT NOVELAS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/118116
+#EXTINF:-1,UNIVERSAL CINEMA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/9778
+#EXTINF:-1,UNIVERSAL COMEDY ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/24328
+#EXTINF:-1,UNIVERSAL CRIME ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/9777
+#EXTINF:-1,UNIVERSAL PREMIERE 1 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/14491
+#EXTINF:-1,CARTOON NETWORK ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16905
+#EXTINF:-1,NTV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/118113
+#EXTINF:-1,CANAL ODISEA | ES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/52885
+#EXTINF:-1,DISCOVERY TURBO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/914
+#EXTINF:-1,LOVE NATURE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/118112
+#EXTINF:-1,NAT GEO MUNDO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/58674
+#EXTINF:-1,MTV LIVE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/15341
+#EXTINF:-1,24H | ES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/15283
+#EXTINF:-1,BLOOMBERG ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/27593
+#EXTINF:-1,EL TIEMPO TV
+https://nxt.plus:8443/alexandrawwr/223348/65967
+#EXTINF:-1,NTN 24 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59139
+#EXTINF:-1,AZ CORAZON ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/14465
+#EXTINF:-1,NOVA | ES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/15348
+#EXTINF:-1,PASIONES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16920
+#EXTINF:-1,UNIVISION TLNOVELAS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/29619
+#EXTINF:-1,AZ CLIC ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/14400
+#EXTINF:-1,CGTN EN ESPAÑOL
+https://nxt.plus:8443/alexandrawwr/223348/18006
+#EXTINF:-1,DECASA | ES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/52882
+#EXTINF:-1,DISCOVERY FAMILIA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/29723
+#EXTINF:-1,EL GOURMET ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/3425
+#EXTINF:-1,HOLA PLAY ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/19201
+#EXTINF:-1,HOLA TV! ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/17060
+#EXTINF:-1,MAS CHIC
+https://nxt.plus:8443/alexandrawwr/223348/17829
+#EXTINF:-1,PLATZI ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/56749
+#EXTINF:-1,REAL MADRID TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/166703
+#EXTINF:-1,ESPN 4 | SUR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/19189
+#EXTINF:-1,TSN 3
+https://nxt.plus:8443/alexandrawwr/223348/166763
+#EXTINF:-1,TSN 4
+https://nxt.plus:8443/alexandrawwr/223348/166764
+#EXTINF:-1,CR | TELERED
+https://nxt.plus:8443/alexandrawwr/223348/167076
+#EXTINF:-1,CR | TELEUNO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/167077
+#EXTINF:-1,CU | CUBAVISIÓN
+https://nxt.plus:8443/alexandrawwr/223348/167083
+#EXTINF:-1,CU | TV MARTI ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/167086
+#EXTINF:-1,TV AGRO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/167089
+#EXTINF:-1,UNIVERSAL PREMIERE OESTE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/167880
+#EXTINF:-1,MOVISTAR LA LIGA TV 1 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/168252
+#EXTINF:-1,TELEMEDELLIN
+https://nxt.plus:8443/alexandrawwr/223348/168702
+#EXTINF:-1,TELEANTIOQUIA
+https://nxt.plus:8443/alexandrawwr/223348/168703
+#EXTINF:-1,ELEVEN SPORTS 1 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/168836
+#EXTINF:-1,ELEVEN SPORTS 2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/168837
+#EXTINF:-1,ELEVEN SPORTS 3 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/168838
+#EXTINF:-1,ELEVEN SPORTS 4 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/168839
+#EXTINF:-1,ELEVEN SPORTS 5 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/168840
+#EXTINF:-1,ELEVEN SPORTS 6 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/168841
+#EXTINF:-1,REG | AURORA MEDIA FILMS | Toto
+https://nxt.plus:8443/alexandrawwr/223348/59322
+#EXTINF:-1,REG | TEVE GLOBO | Quetz
+https://nxt.plus:8443/alexandrawwr/223348/160978
+#EXTINF:-1,CINE AR
+https://nxt.plus:8443/alexandrawwr/223348/183274
+#EXTINF:-1,GOLDEN EDGE
+https://nxt.plus:8443/alexandrawwr/223348/183277
+#EXTINF:-1,EUROPA EUROPA
+https://nxt.plus:8443/alexandrawwr/223348/183278
+#EXTINF:-1,DISTRITO COMEDIA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59612
+#EXTINF:-1,CINE LATINO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/24648
+#EXTINF:-1,TELEFE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/1634
+#EXTINF:-1,TELEFUTURO 
+https://nxt.plus:8443/alexandrawwr/223348/65701
+#EXTINF:-1,TELEMUNDO BOSTON ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/168704
+#EXTINF:-1,TV PERÚ HD
+https://nxt.plus:8443/alexandrawwr/223348/65706
+#EXTINF:-1,TSN 5
+https://nxt.plus:8443/alexandrawwr/223348/166765
+#EXTINF:-1,RD | COLOR VISION 9
+https://nxt.plus:8443/alexandrawwr/223348/160238
+#EXTINF:-1,CDO PREMIUM
+https://nxt.plus:8443/alexandrawwr/223348/167784
+#EXTINF:-1,EPOCA TV
+https://nxt.plus:8443/alexandrawwr/223348/161116
+#EXTINF:-1,HGTV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59124
+#EXTINF:-1,RAI INT
+https://nxt.plus:8443/alexandrawwr/223348/14558
+#EXTINF:-1,STAR CHANNEL/
+https://nxt.plus:8443/alexandrawwr/223348/59149
+#EXTINF:-1,STAR TVE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/13228
+#EXTINF:-1,ETC TV
+https://nxt.plus:8443/alexandrawwr/223348/169444
+#EXTINF:-1,DAZN LA LIGA 1 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/56866
+#EXTINF:-1,DAZN 2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/25277
+#EXTINF:-1,DAZN 4 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/28956
+#EXTINF:-1,ESPN 1 | US ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/169421
+#EXTINF:-1,MOVISTAR LA LIGA TV 1 | FHD
+https://nxt.plus:8443/alexandrawwr/223348/65683
+#EXTINF:-1,WIN SPORTS+ ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/1164
+#EXTINF:-1,CONCIENCIA TV
+https://nxt.plus:8443/alexandrawwr/223348/169593
+#EXTINF:-1,ESPN 1 | CL
+https://nxt.plus:8443/alexandrawwr/223348/43527
+#EXTINF:-1,GLOBOVISION
+https://nxt.plus:8443/alexandrawwr/223348/60106
+#EXTINF:-1,VIA X
+https://nxt.plus:8443/alexandrawwr/223348/169468
+#EXTINF:-1,VIA X ESPORTS
+https://nxt.plus:8443/alexandrawwr/223348/169469
+#EXTINF:-1,HBO
+https://nxt.plus:8443/alexandrawwr/223348/59122
+#EXTINF:-1,HBO 2
+https://nxt.plus:8443/alexandrawwr/223348/43536
+#EXTINF:-1,HBO FAMILY
+https://nxt.plus:8443/alexandrawwr/223348/43537
+#EXTINF:-1,HBO SIGNATURE
+https://nxt.plus:8443/alexandrawwr/223348/13894
+#EXTINF:-1,HBO XTREME
+https://nxt.plus:8443/alexandrawwr/223348/59123
+#EXTINF:-1,HBO MUNDI
+https://nxt.plus:8443/alexandrawwr/223348/187924
+#EXTINF:-1,HBO+
+https://nxt.plus:8443/alexandrawwr/223348/43538
+#EXTINF:-1,HBO POP
+https://nxt.plus:8443/alexandrawwr/223348/183273
+#EXTINF:-1,HGTV
+https://nxt.plus:8443/alexandrawwr/223348/160515
+#EXTINF:-1,HISTORY CHANNEL
+https://nxt.plus:8443/alexandrawwr/223348/169453
+#EXTINF:-1,PANAVISION ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/34200
+#EXTINF:-1,PARAMOUNT CHANNEL
+https://nxt.plus:8443/alexandrawwr/223348/59144
+#EXTINF:-1,SPACE
+https://nxt.plus:8443/alexandrawwr/223348/59153
+#EXTINF:-1,STUDIO UNIVERSAL
+https://nxt.plus:8443/alexandrawwr/223348/43564
+#EXTINF:-1,TNT
+https://nxt.plus:8443/alexandrawwr/223348/43568
+#EXTINF:-1,TNT SERIES
+https://nxt.plus:8443/alexandrawwr/223348/49314
+#EXTINF:-1,UNIVERSAL
+https://nxt.plus:8443/alexandrawwr/223348/43577
+#EXTINF:-1,ALIENTO VISION
+https://nxt.plus:8443/alexandrawwr/223348/77103
+#EXTINF:-1,A&E
+https://nxt.plus:8443/alexandrawwr/223348/43497
+#EXTINF:-1,AXN
+https://nxt.plus:8443/alexandrawwr/223348/169433
+#EXTINF:-1,CINECANAL
+https://nxt.plus:8443/alexandrawwr/223348/169437
+#EXTINF:-1,CINEMAX
+https://nxt.plus:8443/alexandrawwr/223348/59083
+#EXTINF:-1,FX
+https://nxt.plus:8443/alexandrawwr/223348/169447
+#EXTINF:-1,GOLDEN
+https://nxt.plus:8443/alexandrawwr/223348/43534
+#EXTINF:-1,SONY CHANNEL
+https://nxt.plus:8443/alexandrawwr/223348/43562
+#EXTINF:-1,TCM
+https://nxt.plus:8443/alexandrawwr/223348/13879
+#EXTINF:-1,AMC
+https://nxt.plus:8443/alexandrawwr/223348/187845
+#EXTINF:-1,BARCA TV
+https://nxt.plus:8443/alexandrawwr/223348/59192
+#EXTINF:-1,CANAL CAPITAL
+https://nxt.plus:8443/alexandrawwr/223348/187864
+#EXTINF:-1,CANAL 1
+https://nxt.plus:8443/alexandrawwr/223348/187865
+#EXTINF:-1,GOLF CHANNEL
+https://nxt.plus:8443/alexandrawwr/223348/187919
+#EXTINF:-1,CANAL INSTITUCIONAL
+https://nxt.plus:8443/alexandrawwr/223348/187867
+#EXTINF:-1,CANAL N
+https://nxt.plus:8443/alexandrawwr/223348/187868
+#EXTINF:-1,DSPORTS 1 | CL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/68828
+#EXTINF:-1,CLOVER ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/187876
+#EXTINF:-1,COMEDY CENTRAL
+https://nxt.plus:8443/alexandrawwr/223348/187877
+#EXTINF:-1,PASIONES
+https://nxt.plus:8443/alexandrawwr/223348/187955
+#EXTINF:-1,SEÑAL COLOMBIA
+https://nxt.plus:8443/alexandrawwr/223348/187964
+#EXTINF:-1,SONY MOVIES
+https://nxt.plus:8443/alexandrawwr/223348/187966
+#EXTINF:-1,STAR CHANNEL
+https://nxt.plus:8443/alexandrawwr/223348/187962
+#EXTINF:-1,STAR CHANNEL*
+https://nxt.plus:8443/alexandrawwr/223348/187963
+#EXTINF:-1,SUN CHANNEL
+https://nxt.plus:8443/alexandrawwr/223348/187969
+#EXTINF:-1,TEEN NICK
+https://nxt.plus:8443/alexandrawwr/223348/187989
+#EXTINF:-1,TELECAFE
+https://nxt.plus:8443/alexandrawwr/223348/187992
+#EXTINF:-1,TELECANAL
+https://nxt.plus:8443/alexandrawwr/223348/187993
+#EXTINF:-1,TELEFE INT
+https://nxt.plus:8443/alexandrawwr/223348/187995
+#EXTINF:-1,TELEISLAS
+https://nxt.plus:8443/alexandrawwr/223348/187996
+#EXTINF:-1,TELEMUNDO
+https://nxt.plus:8443/alexandrawwr/223348/187997
+#EXTINF:-1,TLNOVELAS
+https://nxt.plus:8443/alexandrawwr/223348/187998
+#EXTINF:-1,TNT SPORTS 3** (CL)
+https://nxt.plus:8443/alexandrawwr/223348/187979
+#EXTINF:-1,TVN
+https://nxt.plus:8443/alexandrawwr/223348/187988
+#EXTINF:-1,VIVE
+https://nxt.plus:8443/alexandrawwr/223348/188013
+#EXTINF:-1,WARNER TV
+https://nxt.plus:8443/alexandrawwr/223348/188016
+#EXTINF:-1,TV DIPUTADOS
+https://nxt.plus:8443/alexandrawwr/223348/187981
+#EXTINF:-1,TV SENADO
+https://nxt.plus:8443/alexandrawwr/223348/187984
+#EXTINF:-1,TV+
+https://nxt.plus:8443/alexandrawwr/223348/187985
+#EXTINF:-1,UCL
+https://nxt.plus:8443/alexandrawwr/223348/188007
+#EXTINF:-1,WOBI
+https://nxt.plus:8443/alexandrawwr/223348/188014
+#EXTINF:-1,DNEWS LATAM ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/171137
+#EXTINF:-1,DSPORTS MOTOR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/181455
+#EXTINF:-1,ANIMAL PLANET
+https://nxt.plus:8443/alexandrawwr/223348/43501
+#EXTINF:-1,HISTORY 2
+https://nxt.plus:8443/alexandrawwr/223348/187930
+#EXTINF:-1,ESPN 1*
+https://nxt.plus:8443/alexandrawwr/223348/187890
+#EXTINF:-1,FOX SPORTS 1
+https://nxt.plus:8443/alexandrawwr/223348/187911
+#EXTINF:-1,FOX SPORTS 3
+https://nxt.plus:8443/alexandrawwr/223348/187912
+#EXTINF:-1,DISNEY CHANNEL
+https://nxt.plus:8443/alexandrawwr/223348/187886
+#EXTINF:-1,DISTRITO COMEDIA
+https://nxt.plus:8443/alexandrawwr/223348/187888
+#EXTINF:-1,E! ENTERTAIMENT
+https://nxt.plus:8443/alexandrawwr/223348/187889
+#EXTINF:-1,EL GOURMET
+https://nxt.plus:8443/alexandrawwr/223348/187902
+#EXTINF:-1,EL TRECE INT
+https://nxt.plus:8443/alexandrawwr/223348/187903
+#EXTINF:-1,EL CANAL DEL TIEMPO
+https://nxt.plus:8443/alexandrawwr/223348/187897
+#EXTINF:-1,ETC TV
+https://nxt.plus:8443/alexandrawwr/223348/187898
+#EXTINF:-1,EUROCHANNEL
+https://nxt.plus:8443/alexandrawwr/223348/187905
+#EXTINF:-1,EUROPA EUROPA
+https://nxt.plus:8443/alexandrawwr/223348/187906
+#EXTINF:-1,FANB
+https://nxt.plus:8443/alexandrawwr/223348/187907
+#EXTINF:-1,FILM & ARTS
+https://nxt.plus:8443/alexandrawwr/223348/187909
+#EXTINF:-1,FOX NEWS
+https://nxt.plus:8443/alexandrawwr/223348/187910
+#EXTINF:-1,FRANCE 24
+https://nxt.plus:8443/alexandrawwr/223348/187913
+#EXTINF:-1,GLOBAL
+https://nxt.plus:8443/alexandrawwr/223348/187914
+#EXTINF:-1,KANAL D DRAMA
+https://nxt.plus:8443/alexandrawwr/223348/187936
+#EXTINF:-1,LA RED | CL
+https://nxt.plus:8443/alexandrawwr/223348/187937
+#EXTINF:-1,LAS ESTRELLAS
+https://nxt.plus:8443/alexandrawwr/223348/187938
+#EXTINF:-1,LIFETIME
+https://nxt.plus:8443/alexandrawwr/223348/187939
+#EXTINF:-1,MTV
+https://nxt.plus:8443/alexandrawwr/223348/187942
+#EXTINF:-1,NICK JR
+https://nxt.plus:8443/alexandrawwr/223348/187947
+#EXTINF:-1,NICK MUSIC
+https://nxt.plus:8443/alexandrawwr/223348/187948
+#EXTINF:-1,NICKELODEON ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/187949
+#EXTINF:-1,RCN SD
+https://nxt.plus:8443/alexandrawwr/223348/187950
+#EXTINF:-1,CRISTOVISION
+https://nxt.plus:8443/alexandrawwr/223348/171765
+#EXTINF:-1,CNN CHILE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59074
+#EXTINF:-1,FOX SPORTS 3 | SUR
+https://nxt.plus:8443/alexandrawwr/223348/43533
+#EXTINF:-1,TELETRAK
+https://nxt.plus:8443/alexandrawwr/223348/169465
+#EXTINF:-1,REG | NIM TV | Sololá
+https://nxt.plus:8443/alexandrawwr/223348/188849
+#EXTINF:-1,REG | TV CHINIQUE | Quiché
+https://nxt.plus:8443/alexandrawwr/223348/188850
+#EXTINF:-1,REG | TV FLORENCIA | Chimal
+https://nxt.plus:8443/alexandrawwr/223348/188851
+#EXTINF:-1,DISCOVERY TURBO
+https://nxt.plus:8443/alexandrawwr/223348/43522
+#EXTINF:-1,COMBATE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/51471
+#EXTINF:-1,ORBE 21 TV
+https://nxt.plus:8443/alexandrawwr/223348/77065
+#EXTINF:-1,IMAGEN TV
+https://nxt.plus:8443/alexandrawwr/223348/189004
+#EXTINF:-1,TVG 2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/49307
+#EXTINF:-1,TELEHIT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/60566
+#EXTINF:-1,ESPN 4 | CENTRO AME HD
+https://nxt.plus:8443/alexandrawwr/223348/763
+#EXTINF:-1,ESPN 4 | SUR
+https://nxt.plus:8443/alexandrawwr/223348/189167
+#EXTINF:-1,MEGA
+https://nxt.plus:8443/alexandrawwr/223348/169456
+#EXTINF:-1,NBC UNIVERSO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/13973
+#EXTINF:-1,DSPORTS+ | CL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/68830
+#EXTINF:-1,DSPORTS 2 | CL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/68829
+#EXTINF:-1,DSPORTS FIGHT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/160542
+#EXTINF:-1,BBC WORLD NEWS
+https://nxt.plus:8443/alexandrawwr/223348/49311
+#EXTINF:-1,ANIMAL PLANET | US ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/64517
+#EXTINF:-1,FOX SPORTS 2 | SUR
+https://nxt.plus:8443/alexandrawwr/223348/761
+#EXTINF:-1,GAMAVISION
+https://nxt.plus:8443/alexandrawwr/223348/24540
+#EXTINF:-1,ECUAVISA
+https://nxt.plus:8443/alexandrawwr/223348/187901
+#EXTINF:-1,ESPN 3
+https://nxt.plus:8443/alexandrawwr/223348/169440
+#EXTINF:-1,ECUAVISA | GQUIL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/1172
+#EXTINF:-1,ECUADOR TV
+https://nxt.plus:8443/alexandrawwr/223348/1173
+#EXTINF:-1,MULTICANAL CATAMAYO
+https://nxt.plus:8443/alexandrawwr/223348/34165
+#EXTINF:-1,ZARACAY TV
+https://nxt.plus:8443/alexandrawwr/223348/42417
+#EXTINF:-1,TC TELEVISIÓN
+https://nxt.plus:8443/alexandrawwr/223348/59158
+#EXTINF:-1,ECOTEL TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/61725
+#EXTINF:-1,ECUADOR TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/171764
+#EXTINF:-1,INTI ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/171769
+#EXTINF:-1,OROMAR TV
+https://nxt.plus:8443/alexandrawwr/223348/187951
+#EXTINF:-1,RTS
+https://nxt.plus:8443/alexandrawwr/223348/187960
+#EXTINF:-1,RTU
+https://nxt.plus:8443/alexandrawwr/223348/187961
+#EXTINF:-1,TELEVICENTRO
+https://nxt.plus:8443/alexandrawwr/223348/188001
+#EXTINF:-1,WUAN+
+https://nxt.plus:8443/alexandrawwr/223348/188015
+#EXTINF:-1,VENEZOLANA DE TELEVISIÓN
+https://nxt.plus:8443/alexandrawwr/223348/3437
+#EXTINF:-1,TELEMUNDO 52 LOS ANGELES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/189349
+#EXTINF:-1,MULTIPREMIER ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/189604
+#EXTINF:-1,MULTIPREMIER
+https://nxt.plus:8443/alexandrawwr/223348/189605
+#EXTINF:-1,MULTICINEMA
+https://nxt.plus:8443/alexandrawwr/223348/189700
+#EXTINF:-1,ESPN 2 | SUR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/190374
+#EXTINF:-1,GOLDEN ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/9769
+#EXTINF:-1,LOLLY KIDS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/181456
+#EXTINF:-1,TVE INT
+https://nxt.plus:8443/alexandrawwr/223348/169462
+#EXTINF:-1,RPP
+https://nxt.plus:8443/alexandrawwr/223348/169457
+#EXTINF:-1,CANAL UNO | CO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/118110
+#EXTINF:-1,CINECANAL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/2833
+#EXTINF:-1,SKY SPORTS BUNDESLIGA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/56957
+#EXTINF:-1,STINGRAY CONCERTS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/116277
+#EXTINF:-1,VEPACO TV
+https://nxt.plus:8443/alexandrawwr/223348/60573
+#EXTINF:-1,VALE TV
+https://nxt.plus:8443/alexandrawwr/223348/59183
+#EXTINF:-1,UCV
+https://nxt.plus:8443/alexandrawwr/223348/32018
+#EXTINF:-1,EL TRECE | CO
+https://nxt.plus:8443/alexandrawwr/223348/43575
+#EXTINF:-1,TOONCAST
+https://nxt.plus:8443/alexandrawwr/223348/9787
+#EXTINF:-1,SNT
+https://nxt.plus:8443/alexandrawwr/223348/59148
+#EXTINF:-1,PERÚ MÁGICO
+https://nxt.plus:8443/alexandrawwr/223348/172481
+#EXTINF:-1,HTV
+https://nxt.plus:8443/alexandrawwr/223348/59125
+#EXTINF:-1,EWTN
+https://nxt.plus:8443/alexandrawwr/223348/169445
+#EXTINF:-1,EURONEWS
+https://nxt.plus:8443/alexandrawwr/223348/15284
+#EXTINF:-1,ENLACE TV
+https://nxt.plus:8443/alexandrawwr/223348/77067
+#EXTINF:-1,ENCUENTRO
+https://nxt.plus:8443/alexandrawwr/223348/171110
+#EXTINF:-1,PA | DREYKO TV
+https://nxt.plus:8443/alexandrawwr/223348/171768
+#EXTINF:-1,CANAL TRO
+https://nxt.plus:8443/alexandrawwr/223348/174896
+#EXTINF:-1,SONY NOVELAS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/191172
+#EXTINF:-1,MOVISTAR +
+https://nxt.plus:8443/alexandrawwr/223348/191173
+#EXTINF:-1,PR | UNIVISION
+https://nxt.plus:8443/alexandrawwr/223348/191175
+#EXTINF:-1,TNT SPORTS 2** (CL)
+https://nxt.plus:8443/alexandrawwr/223348/191452
+#EXTINF:-1,TNT SPORTS 3*** (CL)
+https://nxt.plus:8443/alexandrawwr/223348/183279
+#EXTINF:-1,TNT SPORTS HD** (CL)
+https://nxt.plus:8443/alexandrawwr/223348/191454
+#EXTINF:-1,UNIVERSAL*
+https://nxt.plus:8443/alexandrawwr/223348/191456
+#EXTINF:-1,GALICIA TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/191674
+#EXTINF:-1,CANAL VASCO
+https://nxt.plus:8443/alexandrawwr/223348/191675
+#EXTINF:-1,RT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/191676
+#EXTINF:-1,BABY TV
+https://nxt.plus:8443/alexandrawwr/223348/3426
+#EXTINF:-1,KANAL D DRAMA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/57182
+#EXTINF:-1,MTV 00s ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/57254
+#EXTINF:-1,SEÑAL COLOMBIA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/18480
+#EXTINF:-1,WIN SPORTS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/43579
+#EXTINF:-1,ESPN 3 | SUR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/3267
+#EXTINF:-1,ESPN 2 | SUR
+https://nxt.plus:8443/alexandrawwr/223348/767
+#EXTINF:-1,INVESTIGATION DISCOVERY ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/9784
+#EXTINF:-1,CANAL I  ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/27597
+#EXTINF:-1,BOOMERANG | US
+https://nxt.plus:8443/alexandrawwr/223348/118122
+#EXTINF:-1,FOX NEW YORK ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/169423
+#EXTINF:-1,BEIN SPORTS | US ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/58063
+#EXTINF:-1,GOLDEN EDGE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/169449
+#EXTINF:-1,M.DEPORTES PERÚ ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/192577
+#EXTINF:-1,M.DEPORTES PERÚ
+https://nxt.plus:8443/alexandrawwr/223348/192578
+#EXTINF:-1,RCN*
+https://nxt.plus:8443/alexandrawwr/223348/192582
+#EXTINF:-1,ABC BOSTON ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/169854
+#EXTINF:-1,VCLASSIC TV
+https://nxt.plus:8443/alexandrawwr/223348/192589
+#EXTINF:-1,OLDIES HITS TV
+https://nxt.plus:8443/alexandrawwr/223348/192593
+#EXTINF:-1,MEGA | CL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/116271
+#EXTINF:-1,MEGA HD
+https://nxt.plus:8443/alexandrawwr/223348/192623
+#EXTINF:-1,C5N ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/81338
+#EXTINF:-1,CANAL 5 | MX ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59603
+#EXTINF:-1,CR | CANAL  4
+https://nxt.plus:8443/alexandrawwr/223348/46923
+#EXTINF:-1,CU | CUBAVISIÓN INT
+https://nxt.plus:8443/alexandrawwr/223348/167084
+#EXTINF:-1,DSPORTS 1 | EC ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/116425
+#EXTINF:-1,FOX SPORTS 1 | MX ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/29781
+#EXTINF:-1,FOX SPORTS 2 | AR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/81341
+#EXTINF:-1,FOX SPORTS 2 | MX ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/29782
+#EXTINF:-1,FOX SPORTS 3 | MX ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/29783
+#EXTINF:-1,LIGA 1 SD
+https://nxt.plus:8443/alexandrawwr/223348/169426
+#EXTINF:-1,MULTIMEDIOS CDMX
+https://nxt.plus:8443/alexandrawwr/223348/160505
+#EXTINF:-1,NBC MIAMI ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/27671
+#EXTINF:-1,PA | COS FC
+https://nxt.plus:8443/alexandrawwr/223348/177515
+#EXTINF:-1,SKY SPORTS EPL | UK ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59250
+#EXTINF:-1,TELEMUNDO CHICAGO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/24497
+#EXTINF:-1,UNIMAS LOS ANGELES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/24524
+#EXTINF:-1,UNIVISION ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/167881
+#EXTINF:-1,WIN SPORTS
+https://nxt.plus:8443/alexandrawwr/223348/183280
+#EXTINF:-1,ZONA LATINA
+https://nxt.plus:8443/alexandrawwr/223348/169471
+#EXTINF:-1,AMC | US ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/172556
+#EXTINF:-1,CARTOON NETWORK | US
+https://nxt.plus:8443/alexandrawwr/223348/118123
+#EXTINF:-1,DISCOVERY FAMILY ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/27697
+#EXTINF:-1,ESPN 1 | BR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/56900
+#EXTINF:-1,ESPN 2 | US ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/169422
+#EXTINF:-1,NI | CANAL  6
+https://nxt.plus:8443/alexandrawwr/223348/61811
+#EXTINF:-1,PA | COS 
+https://nxt.plus:8443/alexandrawwr/223348/177514
+#EXTINF:-1,TELEMUNDO ATLANTA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/189585
+#EXTINF:-1,UNIVISION ATLANTA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/189351
+#EXTINF:-1,UNIVISION WASHINGTON ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/189584
+#EXTINF:-1,DSPORTS 1 | CO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/160611
+#EXTINF:-1,FOX MIAMI ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16643
+#EXTINF:-1,MERIDIANO TV
+https://nxt.plus:8443/alexandrawwr/223348/13256
+#EXTINF:-1,HN | HCH
+https://nxt.plus:8443/alexandrawwr/223348/191176
+#EXTINF:-1,TELECINCO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/13649
+#EXTINF:-1,TLC | US ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/172558
+#EXTINF:-1,CANAL INSTITUCIONAL HD
+https://nxt.plus:8443/alexandrawwr/223348/191440
+#EXTINF:-1,WWE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/24992
+#EXTINF:-1,ESPN 4 | BR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/160136
+#EXTINF:-1,UFC FIGHT PASS | US ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/4965
+#EXTINF:-1,UFC TV | US ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/21923
+#EXTINF:-1,ARGENTINISIMA
+https://nxt.plus:8443/alexandrawwr/223348/171123
+#EXTINF:-1,LIGA 1 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/167070
+#EXTINF:-1,BLOOMBERG PLUS
+https://nxt.plus:8443/alexandrawwr/223348/193962
+#EXTINF:-1,CNBC WORLD
+https://nxt.plus:8443/alexandrawwr/223348/193963
+#EXTINF:-1,AZTECA DEPORTES
+https://nxt.plus:8443/alexandrawwr/223348/193967
+#EXTINF:-1,VENEVISION HD
+https://nxt.plus:8443/alexandrawwr/223348/193968
+#EXTINF:-1,MIRANDA TV
+https://nxt.plus:8443/alexandrawwr/223348/193971
+#EXTINF:-1,GOL TV | EC ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/166913
+#EXTINF:-1,USA NETWORK ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/18736
+#EXTINF:-1,LIGA 1 MAX ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/130639
+#EXTINF:-1,HBO MUNDI ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/13883
+#EXTINF:-1,TLC ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/13762
+#EXTINF:-1,GOLDEN PREMIER
+https://nxt.plus:8443/alexandrawwr/223348/196524
+#EXTINF:-1,BE MAD ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/172547
+#EXTINF:-1,SKY SPORTS LA LIGA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/201471
+#EXTINF:-1,CR | CANAL  2
+https://nxt.plus:8443/alexandrawwr/223348/201613
+#EXTINF:-1,TELEMUNDO 47 NEW YORK ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/24523
+#EXTINF:-1,GT | TIGO SPORTS + ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/210278
+#EXTINF:-1,PA | TIGO SPORTS
+https://nxt.plus:8443/alexandrawwr/223348/213608
+#EXTINF:-1,ANTENA 3 
+https://nxt.plus:8443/alexandrawwr/223348/215712
+#EXTINF:-1,A3 SERIES
+https://nxt.plus:8443/alexandrawwr/223348/215713
+#EXTINF:-1,AZ CORAZON
+https://nxt.plus:8443/alexandrawwr/223348/215714
+#EXTINF:-1,AZ MUNDO
+https://nxt.plus:8443/alexandrawwr/223348/215715
+#EXTINF:-1,BBC WORLD
+https://nxt.plus:8443/alexandrawwr/223348/215716
+#EXTINF:-1,NI | CANAL 13
+https://nxt.plus:8443/alexandrawwr/223348/215717
+#EXTINF:-1,24 HORAS
+https://nxt.plus:8443/alexandrawwr/223348/217441
+#EXTINF:-1,AZ CINEMA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/160510
+#EXTINF:-1,TNT | US ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/169280
+#EXTINF:-1,SV | CANAL 10
+https://nxt.plus:8443/alexandrawwr/223348/160230
+#EXTINF:-1,GT | TIGO SPORTS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/60673
+#EXTINF:-1,HN | TIGO SPORTS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/61704
+#EXTINF:-1,BO | TIGO SPORTS 1 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/161683
+#EXTINF:-1,BO | TIGO SPORTS 2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/161684
+#EXTINF:-1,BO | TIGO SPORTS 3 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/161685
+#EXTINF:-1,SV | TIGO SPORTS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/169989
+#EXTINF:-1,PY | TIGO SPORTS op2
+https://nxt.plus:8443/alexandrawwr/223348/190053
+#EXTINF:-1,CR | TIGO SPORTS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/192624
+#EXTINF:-1,PY | TIGO SPORTS Op1
+https://nxt.plus:8443/alexandrawwr/223348/190052
+#EXTINF:-1,BO | EVENTOS
+https://nxt.plus:8443/alexandrawwr/223348/161939
+#EXTINF:-1,CORAL TV (OR)
+https://nxt.plus:8443/alexandrawwr/223348/196329
+#EXTINF:-1,IMPERIAL TV | POTOSI
+https://nxt.plus:8443/alexandrawwr/223348/196330
+#EXTINF:-1,UNIVALLE TV HD (CBBA)
+https://nxt.plus:8443/alexandrawwr/223348/192971
+#EXTINF:-1,BOLIVISION LPZ ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/1636
+#EXTINF:-1,UNITEL | SCZ ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/11863
+#EXTINF:-1,RTP ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/11864
+#EXTINF:-1,ATB ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/11867
+#EXTINF:-1,AYNI TV | LP ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16518
+#EXTINF:-1,FTV | SCZ ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16524
+#EXTINF:-1,MEGA TV | YCB ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/25146
+#EXTINF:-1,TV LATINA | SCZ ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/25149
+#EXTINF:-1,SEO TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/25150
+#EXTINF:-1,NEO TV | PTS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/30481
+#EXTINF:-1,CADENA A ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/36195
+#EXTINF:-1,ABYA YALA
+https://nxt.plus:8443/alexandrawwr/223348/56761
+#EXTINF:-1,TVU | LP
+https://nxt.plus:8443/alexandrawwr/223348/59542
+#EXTINF:-1,UNITEL | LP ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/61473
+#EXTINF:-1,RED UNO | SCZ ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/65673
+#EXTINF:-1,CVC | El Alto
+https://nxt.plus:8443/alexandrawwr/223348/67073
+#EXTINF:-1,DELTA TV | LP ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/67227
+#EXTINF:-1,CEACOM | OR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/67229
+#EXTINF:-1,RED UNO | CBBA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/72659
+#EXTINF:-1,PLUS TLT | TARIJA
+https://nxt.plus:8443/alexandrawwr/223348/160974
+#EXTINF:-1,F-10 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/161146
+#EXTINF:-1,RTVE | CBBA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/161687
+#EXTINF:-1,BOLIVIA TV 7.1 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/161990
+#EXTINF:-1,GIGAVISION ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/169472
+#EXTINF:-1,RED UNO | LP ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/172752
+#EXTINF:-1,PALENQUE TV
+https://nxt.plus:8443/alexandrawwr/223348/173288
+#EXTINF:-1,UNITEL SD
+https://nxt.plus:8443/alexandrawwr/223348/185033
+#EXTINF:-1,RED UNO SD
+https://nxt.plus:8443/alexandrawwr/223348/185086
+#EXTINF:-1,RTP SD
+https://nxt.plus:8443/alexandrawwr/223348/185087
+#EXTINF:-1,ATB SD
+https://nxt.plus:8443/alexandrawwr/223348/185148
+#EXTINF:-1,UNITEL | CBBA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/187766
+#EXTINF:-1,AGENDA MINERA | Potosi
+https://nxt.plus:8443/alexandrawwr/223348/189587
+#EXTINF:-1,CINERAMA TV
+https://nxt.plus:8443/alexandrawwr/223348/189591
+#EXTINF:-1,DTV
+https://nxt.plus:8443/alexandrawwr/223348/189592
+#EXTINF:-1,GOGOPLAY
+https://nxt.plus:8443/alexandrawwr/223348/189593
+#EXTINF:-1,PAT | LP ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/189603
+#EXTINF:-1,BOLIVIA TV 7.2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/191455
+#EXTINF:-1,MEGAVISION | SCZ ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/192968
+#EXTINF:-1,RED CCTV | CBBA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/192970
+#EXTINF:-1,TL ESTRELLA
+https://nxt.plus:8443/alexandrawwr/223348/192972
+#EXTINF:-1,ByM SPORTS
+https://nxt.plus:8443/alexandrawwr/223348/64470
+#EXTINF:-1,TNT SPORTS | AR ᴴᴰ*
+https://nxt.plus:8443/alexandrawwr/223348/25121
+#EXTINF:-1,STAR+ || ESPN LIGA PRO
+https://nxt.plus:8443/alexandrawwr/223348/196293
+#EXTINF:-1,STAR+ || ESPN 2 LIGA PRO 
+https://nxt.plus:8443/alexandrawwr/223348/196292
+#EXTINF:-1,TELEAMAZONAS COSTA HD
+https://nxt.plus:8443/alexandrawwr/223348/196262
+#EXTINF:-1,TC TELEVISIÓN ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/196270
+#EXTINF:-1,RTS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/196278
+#EXTINF:-1,TNT SPORTS HD (CL)
+https://nxt.plus:8443/alexandrawwr/223348/184411
+#EXTINF:-1,GOL PERU ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/25347
+#EXTINF:-1,SONY MOVIES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/114820
+#EXTINF:-1,TUDN | MX ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/65691
+#EXTINF:-1,ABC CHICAGO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/169853
+#EXTINF:-1,TSN 2
+https://nxt.plus:8443/alexandrawwr/223348/166762
+#EXTINF:-1,DAZN 3 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/28955
+#EXTINF:-1,FOX SOCCER PLUS HD
+https://nxt.plus:8443/alexandrawwr/223348/197315
+#EXTINF:-1,CBS NEWS
+https://nxt.plus:8443/alexandrawwr/223348/17907
+#EXTINF:-1,BABY FIRST
+https://nxt.plus:8443/alexandrawwr/223348/43504
+#EXTINF:-1,CANAL 10 | UY
+https://nxt.plus:8443/alexandrawwr/223348/171119
+#EXTINF:-1,ATV+ ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/18052
+#EXTINF:-1,DSPORTS 1 | UY ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/166706
+#EXTINF:-1,CBS SPORTS NETWORK ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/166536
+#EXTINF:-1,ITV PATAGONIA
+https://nxt.plus:8443/alexandrawwr/223348/197935
+#EXTINF:-1,SOBERANIA
+https://nxt.plus:8443/alexandrawwr/223348/197936
+#EXTINF:-1,MUNDOTORO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/162230
+#EXTINF:-1,DISNEY XD | US
+https://nxt.plus:8443/alexandrawwr/223348/118126
+#EXTINF:-1,FOX SPORTS 1 | AR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/166747
+#EXTINF:-1,FOX BUSINESS
+https://nxt.plus:8443/alexandrawwr/223348/193961
+#EXTINF:-1,NBA TV
+https://nxt.plus:8443/alexandrawwr/223348/199607
+#EXTINF:-1,NBA 01
+https://nxt.plus:8443/alexandrawwr/223348/199608
+#EXTINF:-1,NBA 02
+https://nxt.plus:8443/alexandrawwr/223348/199609
+#EXTINF:-1,NBA 03
+https://nxt.plus:8443/alexandrawwr/223348/199610
+#EXTINF:-1,NBA 04
+https://nxt.plus:8443/alexandrawwr/223348/199611
+#EXTINF:-1,NBA 05
+https://nxt.plus:8443/alexandrawwr/223348/199612
+#EXTINF:-1,NBA 06
+https://nxt.plus:8443/alexandrawwr/223348/199613
+#EXTINF:-1,NBA 07
+https://nxt.plus:8443/alexandrawwr/223348/199614
+#EXTINF:-1,NBA 08
+https://nxt.plus:8443/alexandrawwr/223348/199615
+#EXTINF:-1,NBA 09
+https://nxt.plus:8443/alexandrawwr/223348/199616
+#EXTINF:-1,NBA 10
+https://nxt.plus:8443/alexandrawwr/223348/199617
+#EXTINF:-1,NBA 11
+https://nxt.plus:8443/alexandrawwr/223348/199618
+#EXTINF:-1,NBA 12
+https://nxt.plus:8443/alexandrawwr/223348/199619
+#EXTINF:-1,NBA 13
+https://nxt.plus:8443/alexandrawwr/223348/199620
+#EXTINF:-1,NBA 14
+https://nxt.plus:8443/alexandrawwr/223348/199621
+#EXTINF:-1,NBA 15
+https://nxt.plus:8443/alexandrawwr/223348/199622
+#EXTINF:-1,NFL NETWORK
+https://nxt.plus:8443/alexandrawwr/223348/199623
+#EXTINF:-1,NFL RED ZONE
+https://nxt.plus:8443/alexandrawwr/223348/199624
+#EXTINF:-1,NFL 01
+https://nxt.plus:8443/alexandrawwr/223348/199625
+#EXTINF:-1,NFL 02
+https://nxt.plus:8443/alexandrawwr/223348/199626
+#EXTINF:-1,NFL 03
+https://nxt.plus:8443/alexandrawwr/223348/199627
+#EXTINF:-1,NFL 04
+https://nxt.plus:8443/alexandrawwr/223348/199628
+#EXTINF:-1,NFL 05
+https://nxt.plus:8443/alexandrawwr/223348/199629
+#EXTINF:-1,NFL 06
+https://nxt.plus:8443/alexandrawwr/223348/199630
+#EXTINF:-1,NFL 07
+https://nxt.plus:8443/alexandrawwr/223348/199631
+#EXTINF:-1,NFL 08
+https://nxt.plus:8443/alexandrawwr/223348/199632
+#EXTINF:-1,NFL 09
+https://nxt.plus:8443/alexandrawwr/223348/199633
+#EXTINF:-1,NFL 10
+https://nxt.plus:8443/alexandrawwr/223348/199634
+#EXTINF:-1,NFL 11
+https://nxt.plus:8443/alexandrawwr/223348/199635
+#EXTINF:-1,NFL 12
+https://nxt.plus:8443/alexandrawwr/223348/199636
+#EXTINF:-1,NFL 13
+https://nxt.plus:8443/alexandrawwr/223348/199637
+#EXTINF:-1,NFL 14
+https://nxt.plus:8443/alexandrawwr/223348/199638
+#EXTINF:-1,NFL 15
+https://nxt.plus:8443/alexandrawwr/223348/199639
+#EXTINF:-1,NHL NETWORK
+https://nxt.plus:8443/alexandrawwr/223348/199640
+#EXTINF:-1,NHL 01
+https://nxt.plus:8443/alexandrawwr/223348/199641
+#EXTINF:-1,NHL 02
+https://nxt.plus:8443/alexandrawwr/223348/199642
+#EXTINF:-1,NHL 03
+https://nxt.plus:8443/alexandrawwr/223348/199643
+#EXTINF:-1,NHL 04
+https://nxt.plus:8443/alexandrawwr/223348/199644
+#EXTINF:-1,NHL 05
+https://nxt.plus:8443/alexandrawwr/223348/199645
+#EXTINF:-1,NHL 06
+https://nxt.plus:8443/alexandrawwr/223348/199646
+#EXTINF:-1,NHL 07
+https://nxt.plus:8443/alexandrawwr/223348/199647
+#EXTINF:-1,NHL 08
+https://nxt.plus:8443/alexandrawwr/223348/199648
+#EXTINF:-1,NHL 09
+https://nxt.plus:8443/alexandrawwr/223348/199649
+#EXTINF:-1,NHL 10
+https://nxt.plus:8443/alexandrawwr/223348/199650
+#EXTINF:-1,NHL 11
+https://nxt.plus:8443/alexandrawwr/223348/199651
+#EXTINF:-1,NHL 12
+https://nxt.plus:8443/alexandrawwr/223348/199652
+#EXTINF:-1,NHL 13
+https://nxt.plus:8443/alexandrawwr/223348/199653
+#EXTINF:-1,NHL 14
+https://nxt.plus:8443/alexandrawwr/223348/199654
+#EXTINF:-1,NHL 15
+https://nxt.plus:8443/alexandrawwr/223348/199655
+#EXTINF:-1,ESPN DEPORTES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/160760
+#EXTINF:-1,EL TRECE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/13226
+#EXTINF:-1,TN ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/17704
+#EXTINF:-1,CANAL 5 | UY
+https://nxt.plus:8443/alexandrawwr/223348/199749
+#EXTINF:-1,BO | TIGO SPORTS 1 SD
+https://nxt.plus:8443/alexandrawwr/223348/199996
+#EXTINF:-1,BO | TIGO SPORTS 2 SD
+https://nxt.plus:8443/alexandrawwr/223348/199997
+#EXTINF:-1,BO | TIGO SPORTS 3 SD
+https://nxt.plus:8443/alexandrawwr/223348/199998
+#EXTINF:-1,TV PERÚ INTERNACIONAL
+https://nxt.plus:8443/alexandrawwr/223348/172482
+#EXTINF:-1,WILLAX SD
+https://nxt.plus:8443/alexandrawwr/223348/200195
+#EXTINF:-1,MAROÑAS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/168705
+#EXTINF:-1,VTV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/9794
+#EXTINF:-1,VTV PLUS ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/9797
+#EXTINF:-1,LA RED | UY ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/15343
+#EXTINF:-1,CANAL 4 | UY ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/28359
+#EXTINF:-1,CANAL 12 | UY ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/28371
+#EXTINF:-1,CANAL 10 | UY ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/115321
+#EXTINF:-1,TV CIUDAD ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/167787
+#EXTINF:-1,VTV
+https://nxt.plus:8443/alexandrawwr/223348/171118
+#EXTINF:-1,CANAL 4 | UY
+https://nxt.plus:8443/alexandrawwr/223348/171120
+#EXTINF:-1,CANAL 12 | UY
+https://nxt.plus:8443/alexandrawwr/223348/194777
+#EXTINF:-1,SPORT TV 2 | PT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/23426
+#EXTINF:-1,SPORT TV 3 | PT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/23428
+#EXTINF:-1,SPORT TV 4 | PT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/23431
+#EXTINF:-1,TSN 1
+https://nxt.plus:8443/alexandrawwr/223348/166761
+#EXTINF:-1,CNBC HD
+https://nxt.plus:8443/alexandrawwr/223348/193964
+#EXTINF:-1,A+V
+https://nxt.plus:8443/alexandrawwr/223348/201446
+#EXTINF:-1,UNIVISION ORLANDO
+https://nxt.plus:8443/alexandrawwr/223348/192373
+#EXTINF:-1,TELEMUNDO ORLANDO
+https://nxt.plus:8443/alexandrawwr/223348/192372
+#EXTINF:-1,UNIVISION LOS ANGELES ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/189350
+#EXTINF:-1,ESPN 1 | MX ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/166748
+#EXTINF:-1,FOX DEPORTES | US ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/58606
+#EXTINF:-1,GALAVISION MIAMI ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/25704
+#EXTINF:-1,UNIVISION LAX ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/24530
+#EXTINF:-1,SKY SPORTS F1 | UK ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/53097
+#EXTINF:-1,TELEMUNDO 44 WASHINGTON ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/116275
+#EXTINF:-1,UNIVISION NEW YORK ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/24526
+#EXTINF:-1,TELEMUNDO MIAMI ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/15639
+#EXTINF:-1,TVG 1 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/49306
+#EXTINF:-1,UNIMAS MIAMI ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/25703
+#EXTINF:-1,ABC MIAMI | US ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/27662
+#EXTINF:-1,DAZN F1 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/25278
+#EXTINF:-1,DEPORTV 
+https://nxt.plus:8443/alexandrawwr/223348/201616
+#EXTINF:-1,CHV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/752
+#EXTINF:-1,CHV
+https://nxt.plus:8443/alexandrawwr/223348/169434
+#EXTINF:-1,TELEVEN
+https://nxt.plus:8443/alexandrawwr/223348/161144
+#EXTINF:-1,LATINA
+https://nxt.plus:8443/alexandrawwr/223348/43546
+#EXTINF:-1,LATINA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/1169
+#EXTINF:-1,RCN ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/43555
+#EXTINF:-1,RCN HD*
+https://nxt.plus:8443/alexandrawwr/223348/192583
+#EXTINF:-1,CARACOL TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/43506
+#EXTINF:-1,CARACOL INT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/62864
+#EXTINF:-1,CARACOL TV
+https://nxt.plus:8443/alexandrawwr/223348/43486
+#EXTINF:-1,CARACOL*
+https://nxt.plus:8443/alexandrawwr/223348/192581
+#EXTINF:-1,SPORTV 1 | BR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/56907
+#EXTINF:-1,SPORTV 2 | BR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/56908
+#EXTINF:-1,SPORTV 3 | BR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/80563
+#EXTINF:-1,VENEVISIÓN
+https://nxt.plus:8443/alexandrawwr/223348/188009
+#EXTINF:-1,TVES
+https://nxt.plus:8443/alexandrawwr/223348/59171
+#EXTINF:-1,TyC SPORTS | AR ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/15340
+#EXTINF:-1,TyC SPORTS | AR** ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/169849
+#EXTINF:-1,TyC SPORTS INT ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/60567
+#EXTINF:-1,TV PUBLICA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/171115
+#EXTINF:-1,ECDF | EC
+https://nxt.plus:8443/alexandrawwr/223348/187904
+#EXTINF:-1,ECDF | EC ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/192579
+#EXTINF:-1,TELEAMAZONAS
+https://nxt.plus:8443/alexandrawwr/223348/9745
+#EXTINF:-1,INTV 
+https://nxt.plus:8443/alexandrawwr/223348/201706
+#EXTINF:-1,BOLIVISION SCZ ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/201708
+#EXTINF:-1,GOLDEN PREMIER 1 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59490
+#EXTINF:-1,PA | TVN ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/65699
+#EXTINF:-1,DSPORTS 2 | PE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/203176
+#EXTINF:-1,IVC
+https://nxt.plus:8443/alexandrawwr/223348/172479
+#EXTINF:-1,TENNIS CHANNEL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/25943
+#EXTINF:-1,HN | CANAL  5
+https://nxt.plus:8443/alexandrawwr/223348/167082
+#EXTINF:-1,DISNEY CHANNEL | US
+https://nxt.plus:8443/alexandrawwr/223348/118124
+#EXTINF:-1,NFL NETWORK ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/15030
+#EXTINF:-1,BBC AMERICA | US
+https://nxt.plus:8443/alexandrawwr/223348/118130
+#EXTINF:-1,CBS MIAMI ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/169283
+#EXTINF:-1,OWN ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/27763
+#EXTINF:-1,FOOD NETWORK ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/9791
+#EXTINF:-1,ANTOFAGASTA TV
+https://nxt.plus:8443/alexandrawwr/223348/204277
+#EXTINF:-1,BOLIVISION SD
+https://nxt.plus:8443/alexandrawwr/223348/205131
+#EXTINF:-1,ATV SUR
+https://nxt.plus:8443/alexandrawwr/223348/205133
+#EXTINF:-1,BEIN SPORTS XTRA Ñ
+https://nxt.plus:8443/alexandrawwr/223348/206190
+#EXTINF:-1,CINE PREMIERE
+https://nxt.plus:8443/alexandrawwr/223348/207237
+#EXTINF:-1,DSPORTS 2 LATINOAMERICA
+https://nxt.plus:8443/alexandrawwr/223348/207339
+#EXTINF:-1,DSPORTS LATINOAMERICA
+https://nxt.plus:8443/alexandrawwr/223348/207338
+#EXTINF:-1,DSPORTS + LATINOAMERICA 
+https://nxt.plus:8443/alexandrawwr/223348/207340
+#EXTINF:-1,FAST FUN HD
+https://nxt.plus:8443/alexandrawwr/223348/207342
+#EXTINF:-1,FUEL TV HD
+https://nxt.plus:8443/alexandrawwr/223348/207348
+#EXTINF:-1,DOCU BOX ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/207349
+#EXTINF:-1,UNIVERSAL REALITY LATAM ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/16923
+#EXTINF:-1,METRO TV
+https://nxt.plus:8443/alexandrawwr/223348/210416
+#EXTINF:-1,HN | DEPORTES TVC
+https://nxt.plus:8443/alexandrawwr/223348/210604
+#EXTINF:-1,CANAL10 CORDOBA
+https://nxt.plus:8443/alexandrawwr/223348/210895
+#EXTINF:-1,NI | CANAL 12
+https://nxt.plus:8443/alexandrawwr/223348/211010
+#EXTINF:-1,CANAL 12 CORDOBA
+https://nxt.plus:8443/alexandrawwr/223348/211039
+#EXTINF:-1,PA | TV MAX
+https://nxt.plus:8443/alexandrawwr/223348/213140
+#EXTINF:-1,GALAVISION ATLANTA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/189507
+#EXTINF:-1,VTV PLUS SD
+https://nxt.plus:8443/alexandrawwr/223348/213159
+#EXTINF:-1,GOL TV
+https://nxt.plus:8443/alexandrawwr/223348/213160
+#EXTINF:-1,TNT SPORTS | AR ᴴᴰ**
+https://nxt.plus:8443/alexandrawwr/223348/213161
+#EXTINF:-1,NET TV
+https://nxt.plus:8443/alexandrawwr/223348/213162
+#EXTINF:-1,VOLVER
+https://nxt.plus:8443/alexandrawwr/223348/213163
+#EXTINF:-1,CIUDAD MAGAZINE
+https://nxt.plus:8443/alexandrawwr/223348/213164
+#EXTINF:-1,TNT SPORTS | AR ᴴᴰ***
+https://nxt.plus:8443/alexandrawwr/223348/213178
+#EXTINF:-1,ESPN PREMIUM | AR ᴴᴰ**
+https://nxt.plus:8443/alexandrawwr/223348/213179
+#EXTINF:-1,UNIVERSAL REALITY SUR 
+https://nxt.plus:8443/alexandrawwr/223348/213613
+#EXTINF:-1,OSORNOTV+
+https://nxt.plus:8443/alexandrawwr/223348/214278
+#EXTINF:-1,GRAN HERMANO | AR
+https://nxt.plus:8443/alexandrawwr/223348/214280
+#EXTINF:-1,TyC SPORTS | AR*** ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/214554
+#EXTINF:-1,TV SHOW ORURO
+https://nxt.plus:8443/alexandrawwr/223348/214829
+#EXTINF:-1,ANTV
+https://nxt.plus:8443/alexandrawwr/223348/214830
+#EXTINF:-1,ATESUR+ 39
+https://nxt.plus:8443/alexandrawwr/223348/214831
+#EXTINF:-1,RED TVA 29
+https://nxt.plus:8443/alexandrawwr/223348/214832
+#EXTINF:-1,FORTALEZA TV
+https://nxt.plus:8443/alexandrawwr/223348/214833
+#EXTINF:-1,TDT NOTICIAS
+https://nxt.plus:8443/alexandrawwr/223348/214834
+#EXTINF:-1,VTV CANAL 17
+https://nxt.plus:8443/alexandrawwr/223348/214835
+#EXTINF:-1,RD | CDN DEPORTES
+https://nxt.plus:8443/alexandrawwr/223348/215718
+#EXTINF:-1,NI | CANAL 14
+https://nxt.plus:8443/alexandrawwr/223348/215719
+#EXTINF:-1,FIX & FOXI 
+https://nxt.plus:8443/alexandrawwr/223348/216021
+#EXTINF:-1,ESTADIO 1 TNT | CL
+https://nxt.plus:8443/alexandrawwr/223348/169893
+#EXTINF:-1,MX - AFIZZIONADOS
+https://nxt.plus:8443/alexandrawwr/223348/217089
+#EXTINF:-1,DHE
+https://nxt.plus:8443/alexandrawwr/223348/217668
+#EXTINF:-1,RD | TELEVIDA
+https://nxt.plus:8443/alexandrawwr/223348/217669
+#EXTINF:-1,TLT HD
+https://nxt.plus:8443/alexandrawwr/223348/217700
+#EXTINF:-1,TELEVEN HD
+https://nxt.plus:8443/alexandrawwr/223348/217701
+#EXTINF:-1,STINGRAY '90
+https://nxt.plus:8443/alexandrawwr/223348/217703
+#EXTINF:-1,STINGRAY ROCK
+https://nxt.plus:8443/alexandrawwr/223348/217704
+#EXTINF:-1,SHOW VEN HD
+https://nxt.plus:8443/alexandrawwr/223348/217705
+#EXTINF:-1,EL TRECE INT HD
+https://nxt.plus:8443/alexandrawwr/223348/218006
+#EXTINF:-1,MI MUSICA SALSA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/218007
+#EXTINF:-1,MI MUSICA ROMANTICA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/218008
+#EXTINF:-1,BEIN SPORTS Ñ ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/26924
+#EXTINF:-1,CBS BOSTON ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/177648
+#EXTINF:-1,HALLMARK CHANNEL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/172552
+#EXTINF:-1,AZTECA UNO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/160516
+#EXTINF:-1,FOX SPORTS PREMIUM | MX ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/29785
+#EXTINF:-1,GLOBO INTERNACIONAL
+https://nxt.plus:8443/alexandrawwr/223348/218452
+#EXTINF:-1,GLOBO BRASILIA
+https://nxt.plus:8443/alexandrawwr/223348/218453
+#EXTINF:-1,BR: Record TV Europa
+https://nxt.plus:8443/alexandrawwr/223348/218454
+#EXTINF:-1,GLOBO SAO PAULO
+https://nxt.plus:8443/alexandrawwr/223348/218457
+#EXTINF:-1,MULTI SHOW ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/51500
+#EXTINF:-1,GLOBO RJ
+https://nxt.plus:8443/alexandrawwr/223348/51461
+#EXTINF:-1,AZTECA 7 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/160500
+#EXTINF:-1,AGROTENDENCIA TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/59481
+#EXTINF:-1,BALLY SPORTS SAN DIEGO
+https://nxt.plus:8443/alexandrawwr/223348/57385
+#EXTINF:-1,PA | OYE TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/61774
+#EXTINF:-1,PREMIERE CLUBE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/51482
+#EXTINF:-1,NI | TN8
+https://nxt.plus:8443/alexandrawwr/223348/61827
+#EXTINF:-1,CANAL BRASIL
+https://nxt.plus:8443/alexandrawwr/223348/220189
+#EXTINF:-1,CANAL COCINA ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/201447
+#EXTINF:-1,CA | Sportsnet 1 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219971
+#EXTINF:-1,CA | ABC EAST ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219972
+#EXTINF:-1,CA | GAME SHOW NETWORK ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219973
+#EXTINF:-1,CA | SportsNet Ontario ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219975
+#EXTINF:-1,CA | Sports Net One ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219976
+#EXTINF:-1,CA | SPORTSNET 360 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219977
+#EXTINF:-1,CA | SportsNet EAST ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219978
+#EXTINF:-1,CA | SportsNet One ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219979
+#EXTINF:-1,CA | SportsNet Ontario ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219980
+#EXTINF:-1,CA | SportsNet Pacific ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219981
+#EXTINF:-1,CA | SportsNet WEST ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219982
+#EXTINF:-1,CA | SportsNet WORLD ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219983
+#EXTINF:-1,CA | CBC NEWS NETWORK ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219984
+#EXTINF:-1,CA | TSN 2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219986
+#EXTINF:-1,CA | TSN 3 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219987
+#EXTINF:-1,CA | SPORTSNET WORLD ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219988
+#EXTINF:-1,CA | YES TV
+https://nxt.plus:8443/alexandrawwr/223348/219989
+#EXTINF:-1,CA | DIY NETWORK ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219990
+#EXTINF:-1,CA | CTV TORONTO
+https://nxt.plus:8443/alexandrawwr/223348/219991
+#EXTINF:-1,CA | CTV VANCOUVER
+https://nxt.plus:8443/alexandrawwr/223348/219992
+#EXTINF:-1,CA | CTV TWO
+https://nxt.plus:8443/alexandrawwr/223348/219993
+#EXTINF:-1,CA | TVO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219994
+#EXTINF:-1,CA | CTV MONTREAL
+https://nxt.plus:8443/alexandrawwr/223348/219995
+#EXTINF:-1,CA | CBC CALGARY
+https://nxt.plus:8443/alexandrawwr/223348/219996
+#EXTINF:-1,CA | GLOBAL VANCOUVER
+https://nxt.plus:8443/alexandrawwr/223348/219998
+#EXTINF:-1,CA |  SPORTSMAN CHANNEL ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/219999
+#EXTINF:-1,CA | TSN 2 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/220001
+#EXTINF:-1,CA | TSN 3 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/220002
+#EXTINF:-1,CA | TSN 4 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/220003
+#EXTINF:-1,CA | TSN 5 ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/220004
+#EXTINF:-1,CA | SPORTSNET ONTARIO
+https://nxt.plus:8443/alexandrawwr/223348/220005
+#EXTINF:-1,CA | SPORTSNET WORLD ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/220006
+#EXTINF:-1,CA | SPORTSNET 360
+https://nxt.plus:8443/alexandrawwr/223348/220007
+#EXTINF:-1,CA | SPORTSNET ONE ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/220008
+#EXTINF:-1,CA | SPORTSNET EAST ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/220009
+#EXTINF:-1,CA | SPORTSNET WEST ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/220010
+#EXTINF:-1,CA-FR | TVA SPORTS
+https://nxt.plus:8443/alexandrawwr/223348/220011
+#EXTINF:-1,PR | TELEMUNDO 
+https://nxt.plus:8443/alexandrawwr/223348/49722
+#EXTINF:-1,BALLY SPORTS ARIZONA
+https://nxt.plus:8443/alexandrawwr/223348/57366
+#EXTINF:-1,BALLY SPORTS DETROIT
+https://nxt.plus:8443/alexandrawwr/223348/57367
+#EXTINF:-1,BALLY SPORTS KANSAS CITY
+https://nxt.plus:8443/alexandrawwr/223348/57369
+#EXTINF:-1,BALLY SPORTS FLORIDA
+https://nxt.plus:8443/alexandrawwr/223348/57370
+#EXTINF:-1,BALLY SPORTS INDIANA
+https://nxt.plus:8443/alexandrawwr/223348/57372
+#EXTINF:-1,BALLY SPORTS NEW ORLEANS
+https://nxt.plus:8443/alexandrawwr/223348/57377
+#EXTINF:-1,BALLY SPORTS NORTH
+https://nxt.plus:8443/alexandrawwr/223348/57379
+#EXTINF:-1,BALLY SPORTS OHIO
+https://nxt.plus:8443/alexandrawwr/223348/57381
+#EXTINF:-1,BALLY SPORTS OKLAHOMA
+https://nxt.plus:8443/alexandrawwr/223348/57383
+#EXTINF:-1,BALLY SPORTS SOCAL
+https://nxt.plus:8443/alexandrawwr/223348/57387
+#EXTINF:-1,BALLY SPORTS SOUTH
+https://nxt.plus:8443/alexandrawwr/223348/57388
+#EXTINF:-1,BALLY SPORTS SOUTHEAST
+https://nxt.plus:8443/alexandrawwr/223348/57390
+#EXTINF:-1,BALLY SPORTS SOUTHWEST
+https://nxt.plus:8443/alexandrawwr/223348/57391
+#EXTINF:-1,BALLY SPORTS SUN
+https://nxt.plus:8443/alexandrawwr/223348/57393
+#EXTINF:-1,BALLY SPORTS WISCONSIN
+https://nxt.plus:8443/alexandrawwr/223348/57395
+#EXTINF:-1,NBCSN BAY AREA
+https://nxt.plus:8443/alexandrawwr/223348/58627
+#EXTINF:-1,NBCSN CHICAGO HD
+https://nxt.plus:8443/alexandrawwr/223348/58630
+#EXTINF:-1,NBCSN BOSTON
+https://nxt.plus:8443/alexandrawwr/223348/58639
+#EXTINF:-1,NBCSN PHILADELPHIA
+https://nxt.plus:8443/alexandrawwr/223348/58641
+#EXTINF:-1,NBCSN CALIFORNIA HD
+https://nxt.plus:8443/alexandrawwr/223348/166537
+#EXTINF:-1,NBCSN WASHINGTON
+https://nxt.plus:8443/alexandrawwr/223348/166538
+#EXTINF:-1,BALLY SPORTS OHIO
+https://nxt.plus:8443/alexandrawwr/223348/169863
+#EXTINF:-1,TNT SPORTS HD*** (CL)
+https://nxt.plus:8443/alexandrawwr/223348/221013
+#EXTINF:-1,ESPN EXTRA+ HD
+https://nxt.plus:8443/alexandrawwr/223348/221218
+#EXTINF:-1,13 REALLITY
+https://nxt.plus:8443/alexandrawwr/223348/221494
+#EXTINF:-1,13 HUMOR
+https://nxt.plus:8443/alexandrawwr/223348/221495
+#EXTINF:-1,13 FESTIVAL
+https://nxt.plus:8443/alexandrawwr/223348/221496
+#EXTINF:-1,13 TELESERIES
+https://nxt.plus:8443/alexandrawwr/223348/221497
+#EXTINF:-1,13 PRIME
+https://nxt.plus:8443/alexandrawwr/223348/221498
+#EXTINF:-1,13 ENTRETENCION
+https://nxt.plus:8443/alexandrawwr/223348/221499
+#EXTINF:-1,13 CULTURA
+https://nxt.plus:8443/alexandrawwr/223348/221500
+#EXTINF:-1,MOVISTAR DEPORTES
+https://nxt.plus:8443/alexandrawwr/223348/222300
+#EXTINF:-1,MOVISTAR PLUS
+https://nxt.plus:8443/alexandrawwr/223348/222301
+#EXTINF:-1,PA | NEXTV
+https://nxt.plus:8443/alexandrawwr/223348/51529
+#EXTINF:-1,NI | NICARAO TV 
+https://nxt.plus:8443/alexandrawwr/223348/222302
+#EXTINF:-1,PARAVISION SD
+https://nxt.plus:8443/alexandrawwr/223348/222303
+#EXTINF:-1,PARAGUAY TV
+https://nxt.plus:8443/alexandrawwr/223348/222304
+#EXTINF:-1,PA | SER TV ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/61772
+#EXTINF:-1,SUR TV
+https://nxt.plus:8443/alexandrawwr/223348/169839
+#EXTINF:-1,HN | CANAL 5
+https://nxt.plus:8443/alexandrawwr/223348/222305
+#EXTINF:-1,SV | VTV CANAL 35
+https://nxt.plus:8443/alexandrawwr/223348/222308
+#EXTINF:-1,ZOOMOO
+https://nxt.plus:8443/alexandrawwr/223348/222309
+#EXTINF:-1,ESPN 6 | CENTRO ᴴᴰ
+https://nxt.plus:8443/alexandrawwr/223348/223986
+#EXTINF:-1,Amistoso Internacional Argentina vs Costa Rica
+https://nxt.plus:8443/alexandrawwr/223348/216345
+#EXTINF:-1,Amistoso Internacional Argentina vs Costa Rica
+https://nxt.plus:8443/alexandrawwr/223348/218698
+#EXTINF:-1,Amistoso Internacional Peru vs Republica Dominicana
+https://nxt.plus:8443/alexandrawwr/223348/217688
+#EXTINF:-1,(TKD) MASTERS 1000 MIAMI JARRY vs MEDVEDEV
+https://nxt.plus:8443/alexandrawwr/223348/219927
+#EXTINF:-1,4K DUAL | Beekeeper: Sentencia de Muerte (2024)
+https://nxt.plus:8443/movie/alexandrawwr/223348/219172.mkv
+#EXTINF:-1,4K DUAL | Wish: El poder de los deseos (2023)
+https://nxt.plus:8443/movie/alexandrawwr/223348/212739.mkv
+#EXTINF:-1,4K DUAL | Misión: Imposible - Sentencia mortal parte uno (2023)
+https://nxt.plus:8443/movie/alexandrawwr/223348/196890.mkv
+#EXTINF:-1,4K DUAL | La sirenita (2023)
+https://nxt.plus:8443/movie/alexandrawwr/223348/181845.mkv
+#EXTINF:-1,Quisiera ser grande (1988)
+https://nxt.plus:8443/movie/alexandrawwr/223348/154648.mkv
+#EXTINF:-1,El hombre de la máscara de hierro (1998)
+https://nxt.plus:8443/movie/alexandrawwr/223348/152572.mkv
+#EXTINF:-1,Ghost: La Sombra del Amor (1990)
+https://nxt.plus:8443/movie/alexandrawwr/223348/154665.mkv
+#EXTINF:-1,Sueño de fuga (1994)
+https://nxt.plus:8443/movie/alexandrawwr/223348/154691.mkv
+#EXTINF:-1,Romeo + Julieta de William Shakespeare (1996)
+https://nxt.plus:8443/movie/alexandrawwr/223348/160763.mkv
+#EXTINF:-1,Sexto Sentido (1999)
+https://nxt.plus:8443/movie/alexandrawwr/223348/149216.mkv
