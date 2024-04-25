@@ -2031,3 +2031,23 @@ https://nxt.plus:8443/movie/alexandrawwr/223348/154691.mkv
 https://nxt.plus:8443/movie/alexandrawwr/223348/160763.mkv
 #EXTINF:-1,Sexto Sentido (1999)
 https://nxt.plus:8443/movie/alexandrawwr/223348/149216.mkv
+#EXTINF:-1,CHILEVISUAL PELICULAS
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w33603465.m3u8
+#EXTINF:-1,CHILEVISUAL CLASSIC
+https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/chunklist_w284429512.m3u8
+#EXTINF:-1,CHILEVISUAL RETRO
+https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/chunklist_w141890347.m3u8
+#EXTINF:-1,NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1,GEN TV
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1,PLANETA FAMILY
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w494928095.m3u8
+#EXTINF:-1,PLANETA PELICULAS
+https://scl.edge.grupoz.cl/movie/live/chunklist_w1976955387.m3u8
+#EXTINF:-1,MONITV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1,ESTACION RETRO
+https://ssh101-fl.bozztv.com/ssh101/canalonline/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PANDAMAX
+https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8?nimblesessionid=16312425
