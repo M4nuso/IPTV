@@ -2095,3 +2095,5 @@ EXTINF:0 type="favorites" channelId="-1", Tevex TV miplay
 https://panel.miplay.cl:8081/tevex/index.m3u8
 EXTINF:0 type="favorites" channelId="-1", Telecanal miplay
 https://panel.miplay.cl:8081/telecanal/index.m3u8
+#EXTINF:-1,CHILEVISUAL PELICULAS
+https://marine2.miplay.cl:/c13/mono.m3u8
