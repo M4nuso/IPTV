@@ -2051,17 +2051,17 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 https://ssh101-fl.bozztv.com/ssh101/canalonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PANDAMAX
 https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8?nimblesessionid=16312425
-EXTINF:0 type="favorites" channelId="-1", Chilevisión miplay
+#EXTINF:0 type="favorites" channelId="-1", Chilevisión miplay
 https://panel.miplay.cl:8081/chilevision/index.m3u8
-EXTINF:0 type="favorites" channelId="-1", TVN miplay
+#EXTINF:0 type="favorites" channelId="-1", TVN miplay
 https://panel.miplay.cl:8081/tvn/index.m3u8
-EXTINF:0 type="favorites" channelId="-1", CANAL 13 miplay
+#EXTINF:0 type="favorites" channelId="-1", CANAL 13 miplay
 https://marine2.miplay.cl:/c13/mono.m3u8
-EXTINF:0 type="favorites" channelId="-1", Mega miplay
+#EXTINF:0 type="favorites" channelId="-1", Mega miplay
 https://panel.miplay.cl:8081/mega/index.m3u8
-EXTINF:0 type="favorites" channelId="-1", La red miplay
+#EXTINF:0 type="favorites" channelId="-1", La red miplay
 https://panel.miplay.cl:8081/lared/index.m3u8
-EXTINF:0 type="favorites" channelId="-1", TV+ miplay
+#EXTINF:0 type="favorites" channelId="-1", TV+ miplay
 https://panel.miplay.cl:8081/tvmas/index.m3u8
 EXTINF:0 type="favorites" channelId="-1", UATV miplay
 https://panel.miplay.cl:8081/uatv/index.m3u8
