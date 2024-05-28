@@ -2053,66 +2053,45 @@ https://ssh101-fl.bozztv.com/ssh101/canalonline/tracks-v1a1/mono.m3u8
 https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8?nimblesessionid=16312425
 EXTINF:0 type="favorites" channelId="-1", Chilevisión miplay
 https://panel.miplay.cl:8081/chilevision/index.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", TVN miplay
 https://panel.miplay.cl:8081/tvn/index.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", CANAL 13 miplay
 https://marine2.miplay.cl:/c13/mono.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", Mega miplay
 https://panel.miplay.cl:8081/mega/index.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", La red miplay
 https://panel.miplay.cl:8081/lared/index.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", TV+ miplay
 https://panel.miplay.cl:8081/tvmas/index.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", UATV miplay
 https://panel.miplay.cl:8081/uatv/index.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", Ufro miplay
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?uid=uWFXGpAyZzAa9PebAjc61xdWqoz2urKT&sid=E0f8EIR3UY6avmSNV7P343IZY2pm0J5l&pid=M04SfqlF6XjF2ee3jGKztdcKWHYyyHsA&an=screen&at=web-app&av=v5.2.297&ref=https://www.ufromedios.cl/&res=382x286&without_cookies=false&listenerid=&dnt=true
-
 EXTINF:0 type="favorites" channelId="-1", Rec TV miplay
 https://panel.miplay.cl:8081/rec/index.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", 24 horas miplay
 https://marine2.miplay.cl/24horas/mono.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", Mega Noticias miplay
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", T13 miplay
 https://marine2.miplay.cl/t13/mono.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", Bío Bío TV miplay
 https://panel.miplay.cl:8081/biobiotv/index.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", Canal 13C miplay
 https://panel.miplay.cl:8081/13cable/index.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", Mega plus miplay
 https://marine2.miplay.cl/megaplus/mono.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", TV +2 miplay
 https://panel.miplay.cl:8081/tvmas2/index.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", Mega2 miplay
 https://panel.miplay.cl:8081/mega2/index.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", NTV miplay
 https://marine2.miplay.cl/ntv/mono.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", TVR miplay
 https://marine2.miplay.cl/tvr/mono.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", STGO TV miplay
 https://panel.miplay.cl:8081/stgotv/index.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", Tevex TV miplay
 https://panel.miplay.cl:8081/tevex/index.m3u8
-
 EXTINF:0 type="favorites" channelId="-1", Telecanal miplay
 https://panel.miplay.cl:8081/telecanal/index.m3u8
